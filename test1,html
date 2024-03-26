@@ -1,0 +1,2258 @@
+
+<!DOCTYPE HTML>
+<!--<html><head></head><body></body></html>-->
+<html lang="zh" class="__noGmain g_html">
+<head>
+<title>偏瘫患者rTMS治疗恢复量化系统</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- <link rel="dns-prefetch" href="//0.ss.faisys.com">
+<link rel="dns-prefetch" href="//2.ss.faisys.com">
+<link rel="dns-prefetch" href="//1.ss.faisys.com">
+<link rel="dns-prefetch" href="//jzs.faisys.com">
+<link rel="dns-prefetch" href="//fe.faisys.com">
+<link rel="dns-prefetch" href="//jzfe.faisys.com"> -->
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="format-detection" content="telephone=no,email=no,address=no" />
+
+<!-- <meta name="renderer" content="webkit" /> -->
+<!-- <meta property="og:url" content="https://jn29759746.jzfkw.net"> -->
+<!-- <script id="faiHawkEyeScript" charset="utf-8" type="text/javascript" src="https://fe.faisco.cn/hawkEye/outerChain.jsp?appid=3002&aid=32264803&bsAid=32264803&bsId=0&bsWid=0&isOem=false&webName=site"></script> -->
+
+<!-- <script>
+    window.Hosts = {"portal":"i.fkw.com","home":"www.fkw.com","mHome":"m.fkw.com","jzHome":"jz.fkw.com","jzPortal":"i.jz.fkw.com","qzHome":"qz.fkw.com","qzPortal":"i.qz.fkw.com","mallHome":"mall.fkw.com","mallPortal":"i.mall.fkw.com","ykHome":"yk.fkw.com","ykPortal":"i.yk.fkw.com","hdHome":"hd.fkw.com","hdPortal":"i.hd.fkw.com","eduHome":"edu.fkw.com","eduPortal":"i.edu.fkw.com","ktHome":"kt.fkw.com","ktPortal":"i.kt.fkw.com","mpHome":"i.mp.fkw.com","yxHome":"yx.fkw.com","yxPortal":"i.yx.fkw.com","domainRecord":"domain.fkw.com","oss":"o.fkw.com","JSSdkReport":"report.fkw.com","homeDomain":"fkw.com"};
+</script> -->
+
+<!-- <link rel="shortcut icon" href="data:;base64,="/> -->
+<meta itemprop="name" content="test1"/>
+<!-- <link rel='canonical' href='https://jn29759746.jzfkw.net/'> -->
+
+<link type="text/css" href="//2.ss.faisys.com/css/dist/styles/siteBase2.min.css?v=202402221530" rel="stylesheet" />
+<link type="text/css" href="//2.ss.faisys.com/css/dist/styles/base2.min.css?v=202402281044" rel="stylesheet" />
+<link type="text/css" href="//2.ss.faisys.com/css/dist/module.min.css?v=202403041934" rel="stylesheet" />
+<link type="text/css" href="//jzs.faisys.com/940/fkTheme.min.css?v=20240320165643&aid=32264803&wid=0&isNavV2=true&isBannerV2=true&isGrayTest=true" rel="stylesheet" />
+<link type="text/css" href="//2.ss.faisys.com/css/dist/styles/themeMixin.min.css?v=202402221530" rel="stylesheet" />
+
+	
+<style>
+	.animateModule{
+		opacity:0 !important;
+	}
+	
+	.fk-formMiddle-hidden{opacity: 0}
+</style>
+
+<link type='text/css' href='//2.ss.faisys.com/css/dist/styles/moduleAnimation.min.css?v=202402221530' rel='stylesheet' />
+<link type='text/css' href='//jzs.faisys.com/2/64_1/fkModule.min.css?v=20240320165643&aid=32264803&wid=0' rel='stylesheet' id='jzModule2_64_1'><link type='text/css' href='//2.ss.faisys.com/css/dist/styles/newSearchBoxStyle.min.css?v=202402221530' rel='stylesheet'>
+<link type="text/css" href="https://jn29759746.jzfkw.net/jzcusstyle.jsp?id=-1&colId=2&extId=0&_csw=0&clientSupportWebp=true" rel="stylesheet" id="cussstyle"/>
+
+<script>
+
+
+var _perfGray = true;
+var _portalHost = "i.fkw.com";
+var _mallJzallsiteHost = "i.mall.fkw.com";
+var _wid = 0;
+if (typeof Fai == 'undefined'){
+    Fai = {};
+    Fai.top = window;
+}
+var _lcid = 2052,
+	_isNoFormIndex = true,
+	_curLanCode = 'cn',
+	_openStaticUrl = true,
+	defaultLcid = 2052,
+	_aid = 32264803,
+	statId = -1,
+	_debug = false,
+	_isPre = false,
+	_siteDomain = '//jn29759746.jzfkw.net',
+	_resRoot = '//0.ss.faisys.com',
+	_colId = 2,
+	newsDetailPage = 7,
+	productDetailPage = 8,
+	photoDetailPage = 22,
+	_fromColId = -1,
+	_designAuth = false,
+	_manageMode = false,
+	_oem = false,
+	siteVipBeforeExpireDays = -1000,
+	siteVipBeforeExpireHours = 0,
+	_getVipVipStartTime = {"siteVipStartMoreThan7Days":false,"siteVipStartMoreThan30DaysAllSite":false,"siteVipVipStartTime":"0"},                          
+	_siteVer = 10,
+	_fdpSiteVer = 1,
+	_manageStatus = false,
+    __noTable = true,
+    __noGmain = true,
+    _vueStyleGrayTest = false,
+    _mutationObLog = false,
+	_simpleTextGrayTest = true,
+	_mutationObGrayTest = true,
+	_openRemoveUrlArgs = true,
+	_setReqHttpOnlyCookie = true,
+	_useFullUrl = true,
+	newUserHasAddModule = true,		
+	_floatImgLazyLoadGrayTest = true,
+	_showFirstOpenRapid = false,
+	_isTemplateVersion2 = true,
+	_uiMode= false,
+	_openBannerLazyOptimize  = true,
+	isWaterMarkUser = false;
+
+     Fai.top._oldFooterGuideUrl = ''; 
+    _cusSiteWidth = 960;
+	Fai.top._uploadImgSizeLimit = 1;
+	Fai.top.isReActive = false;;
+	Fai.top.jzCustodyExpireShowAD = false;
+	Fai.top.transformatinTrackingGlobalModel = {"onlyHasFreeDomain":false,"openTransformationTracking":false};
+	Fai.top.openMultiPdInquiry = false;
+</script>
+  
+<script type="text/javascript" src ="//1.ss.faisys.com/js/comm/vue/vue-2.7.14.min.js?v=202310161432"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/dist/libs/comMethods.min.js?v=202402281530"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/dist/libs/jzUtils.min.js?v=202402281530"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/comm/polyfill.min.js?v=202307101206"></script>
+<script>var __jzFrontendResRoot__ = '//jzfe.faisys.com';</script>
+<script src='//jzfe.faisys.com/dist/jz/request/jzRequest.min.js?v=202403201300' type='text/javascript'></script>
+<script src='//jzfe.faisys.com/dist/jz/utils/jzUtils.min.js?v=202403201300' type='text/javascript'></script>
+<script src='//jzfe.faisys.com/dist/jz/biz-shared/bizShared.min.js?v=202403201300' type='text/javascript'></script>
+
+<link href='//jzfe.faisys.com/dist/jz/biz-shared/bizShared.min.css?v=202403201300' type='text/css' rel='stylesheet'/>
+
+<script type="text/javascript" src="//1.ss.faisys.com/js/comm/jquery/jquery-core.min.js?v=202307101206"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/comm/jquery/jquery-mousewheel.min.js?v=202307101206"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/dist/frontend.min.js?v=202402281530"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/comm/jquery/jquery-ui-core.min.js?v=202307101206"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/dist/partitionSite.min.js?v=202403221503"></script>
+<script type="text/javascript" src="//jzfe.faisys.com/dist/jz/locale/2052.min.js?v=202403201300"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/dist/site.min.js?v=202403181119"></script>
+<script type="text/javascript" src="//1.ss.faisys.com/js/dist/module.min.js?v=202403181450"></script>
+
+</head>
+
+
+
+<body class="g_body g_locale2052 g_cusSiteWidth bUserWrap" >
+
+	<div id='fk-limtUv' class='fk-limtUv'> </div>	
+
+	<div id="web" class="g_web " >
+
+        <div class="webTopTable">
+            <div id="webTop" class="webTop">
+                <div id='corpTitle' class='corpTitle corpTitle2' fontPatternTitle='false' style='top:35px;;cursor:pointer'  _linkType='0' _href='/index.jsp' >
+					<h1 class='titleWrapper'>
+						<div class="newPrimaryTitle">
+<!-- 大标题 -->				<span style="color: rgb(255, 255, 255); font-size: 36px;">偏瘫患者rTMS治疗恢复量化系统</span>
+						</div>
+					</h1>
+				</div>
+
+            </div>
+        </div>
+
+        <div class="absTopTable" >
+            <div id="absTopForms" class="forms sideForms absForms">
+ <!-- ? -->     <div style="position:absolute;">
+				</div>
+            </div>
+        </div>
+
+        <div class="webNavTable">
+            <div id="webNav" class="webNav webNavDefault">
+                <div id='navV2Wrap'>
+					<div id='navV2' class='nav navV2 '>
+						<div class='navMainContent'><div class='navContent'>
+							<div id='navCenterContent' class='navCenterContent'>
+								<div id='navCenter' class='navCenter'>
+									<div class='itemPrev'></div>
+									<div class='itemContainer'>
+										<div title='' id='nav2' class='item itemCol2 itemIndex1 itemSelected' colId='2'  >
+											<!-- onclick='JZ.setUrlArgToCookieAndJumpByWindowOpen("https://jn29759746.jzfkw.net/", "_self", "")' -->
+											<!-- _jump='JZ.setUrlArgToCookieAndJumpByWindowOpen("https://jn29759746.jzfkw.net/", "_self", "")' -->
+											<div class='itemCenter navItem'>
+												<a hidefocus='true' style='outline:none;' class='J_nav_item_link  ' href='http://127.0.0.1:5500/test1.html'  onclick=';return false;' >
+													<div class='nav_item_wrapper'>
+														<span class='itemName0 J_nav_item_name' >首页</span>
+														<span style='display:none;' class='navItemSubName J_nav_item_subname'>Home</span>
+													</div>
+													<div class='nav_item_arrow J_nav_item_arrow hide nav_item_arrow_hollow_triangle' data-pack-modules-len='0'>
+													</div>
+												</a>
+											</div>
+										</div>
+										<div class='itemSep'>
+											<span class='itemSepLine'></span>
+										</div>
+										<div title='' id='nav102' class='item itemCol102 itemIndex2' colId='102'   >
+											<!-- onclick='JZ.setUrlArgToCookieAndJumpByWindowOpen("https://jn29759746.jzfkw.net/col.jsp?id=102", "_self", "")' -->
+											<!-- _jump='JZ.setUrlArgToCookieAndJumpByWindowOpen("https://jn29759746.jzfkw.net/col.jsp?id=102", "_self", "")' -->
+											<div class='itemCenter navItem'>
+												<a hidefocus='true' style='outline:none;' class='J_nav_item_link  ' href='http://127.0.0.1:5500/test1_%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC.html'  onclick=';return false;' >
+																													<!-- ↑↑↑ 联系我们 -->
+													<div class='nav_item_wrapper'>
+														<span class='itemName0 J_nav_item_name'    >联系我们</span>
+														<!-- onclick='JZ.setUrlArgToCookieAndJumpByWindowOpen("https://jn29759746.jzfkw.net/", "_self", "")' _jump='JZ.setUrlArgToCookieAndJumpByWindowOpen("https://jn29759746.jzfkw.net/", "_self", "")' -->
+														<!-- <span style='display:none;' class='navItemSubName J_nav_item_subname'>Nav</span> -->
+													</div>
+													<div class='nav_item_arrow J_nav_item_arrow hide nav_item_arrow_hollow_triangle' data-pack-modules-len='0'></div>
+												</a>
+											</div>
+										</div>																			
+									</div>
+									<div class='itemNext'></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+		
+    <div class="webHeaderTable J_webHeaderTable " id="webHeaderTable">
+        <div id="webHeaderContent" class="J_webHeaderTable webHeaderTd fk-moduleZoneWrap web_header_td J_webHeaderTd">
+        	<div id="fk-webHeaderZone" class="elemZone elemZoneModule J_moduleZone fk-webHeaderZone fk-moduleZone forms sideForms">
+                <div class="fk-moduleZoneBg fk-elemZoneBg J_zoneContentBg elemZoneBg"></div>
+                <div id='module314'   _modulestyle='79' _moduleid='314'  class='form form314 formStyle79 formInZone ' style='position:absolute;top:21px;left:695px;width:60px;' _side='0' >
+					<div class='lightModuleOuterContent lightModuleOuterContent314'>
+						<div class='floatImg floatImg_J floatImg_J_special'>
+							<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+								<div class='floatImgWrap'>
+									<div class='forMargin'>
+<!-- 小电话图片 -->						<img id='float_img_314' class='float_in_img J_defImage ' src='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgjtvY0AUoppzduAEwPDg8.png' alt='' />
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<div id='module315'   _modulestyle='86' _moduleid='315'  class='form form315 formStyle86 formInZone  siteEditor ' style='position:absolute;top:-45px;left:759px;width:200px;' _side='0' >
+					<div class='lightModuleOuterContent lightModuleOuterContent315'>
+						<div class='fk-editor simpleText fk-editor-break-word  '>
+							<b>
+<!-- 电话号码 -->				<span style="color: rgb(255, 255, 255); font-size: 23px; line-height: 40px;">000-000000000</span>
+							</b>
+						</div>
+					</div>
+				</div>
+			</div>
+                
+            <div id="webHeader" class="webHeader">
+                <div class='headerTable'>
+                    <div class='headerCusLeft'></div>
+                    <div class='headerCusMiddle'>
+						<div class='headerNav headerNavDefault'></div>
+                    </div>
+                	<div class="headerCusRight"></div>
+                </div>
+            </div>
+        </div>
+        
+		<div id="webHeaderContentBg" class="J_webHeaderTable webHeaderTd web_header_td J_webHeaderTd webHeaderContentBg"></div>
+	</div>
+
+	<div class="webBannerTable J_webBannerTable">
+		<div class="fk-moduleZoneWrap">
+		<!-- 移动的大图片/隐藏 -->
+			<!-- <div id="webBanner" class="webBanner">
+				<div class="bannerTable">
+                    <div class="bannerLeft"></div>
+                    <div class="bannerCenter">
+                    	<div style="visibility:hidden;" class="fk-inBannerListZone-tmp forms">
+							<div id='module318'   _modulestyle='79' _moduleid='318'  class='form form318 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:46px;left:94px;width:361px;' _side='0' >
+
+								<div class='lightModuleOuterContent lightModuleOuterContent318'>
+
+									<div class='floatImg floatImg_J floatImg_J_special'>
+										<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+										<div class='floatImgWrap'>
+											<div class='forMargin'>
+												<img id='float_img_318' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgldvY0AUooJyFmwMwrAI4lQE.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' /></div></div></a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module319'   _modulestyle='86' _moduleid='319'  class='form form319 formStyle86 formInZone  siteEditor ' _pdir='1' _pdist='0.4' style='position:absolute;top:221px;left:147px;width:268px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent319'>
+											<div class='fk-editor simpleText fk-editor-break-word  '>
+												<span style="font-size: 14px;">
+													<span style="color: rgb(51, 51, 51);">
+														<span style="line-height: 40px;">国际公立三甲医院</span>
+													</span>
+												</span>
+											</div>
+										</div>
+									</div>
+
+									<div id='module321'   _modulestyle='79' _moduleid='321'  class='form form321 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:226px;left:117px;width:30px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent321'>
+											<div class='floatImg floatImg_J floatImg_J_special'>
+												<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+													<div class='floatImgWrap'>
+														<div class='forMargin'>
+															<img id='float_img_321' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgyeHY0AUooLHwgQIwHjge.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' />
+														</div>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module322'   _modulestyle='79' _moduleid='322'  class='form form322 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:254px;left:117px;width:30px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent322'>
+											<div class='floatImg floatImg_J floatImg_J_special'>
+												<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+													<div class='floatImgWrap'>
+														<div class='forMargin'>
+															<img id='float_img_322' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgyeHY0AUooLHwgQIwHjge.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' />
+														</div>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module323'   _modulestyle='79' _moduleid='323'  class='form form323 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:282px;left:117px;width:30px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent323'>
+											<div class='floatImg floatImg_J floatImg_J_special'>
+												<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+													<div class='floatImgWrap'>
+														<div class='forMargin'>
+															<img id='float_img_323' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgyeHY0AUooLHwgQIwHjge.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' />
+														</div>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module324'   _modulestyle='86' _moduleid='324'  class='form form324 formStyle86 formInZone  siteEditor ' _pdir='1' _pdist='0.4' style='position:absolute;top:249px;left:147px;width:268px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent324'>
+											<div class='fk-editor simpleText fk-editor-break-word  '>
+												<font color="#333333">
+													<span style="font-size: 14px;">
+														<span style="line-height: 40px;">国家医疗实验培训基地</span>
+													</span>
+											    </font>
+											</div>
+										</div>
+									</div>
+
+
+									<div id='module325'   _modulestyle='86' _moduleid='325'  class='form form325 formStyle86 formInZone  siteEditor ' _pdir='1' _pdist='0.4' style='position:absolute;top:277px;left:147px;width:268px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent325'>
+											<div class='fk-editor simpleText fk-editor-break-word  '>
+												<font color="#333333">
+													<span style="font-size: 14px;">
+														<span style="line-height: 40px;">城市早诊早治项目实施单位</span>
+													</span>
+												</font>
+											</div>
+										</div>
+									</div>
+
+									<div id='module326'   _modulestyle='79' _moduleid='326'  class='form form326 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:-7px;left:390px;width:196px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent326'>
+											<div class='floatImg floatImg_J floatImg_J_special'>
+												<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+													<div class='floatImgWrap'>
+														<div class='forMargin'>
+															<img id='float_img_326' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgkNvY0AUoi_vT4QUwxAE4ygE.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' />
+														</div>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module328'   _modulestyle='86' _moduleid='328'  class='form form328 formStyle86 formInZone  siteEditor ' _pdir='1' _pdist='0.4' style='position:absolute;top:88px;left:576px;width:331px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent328'>
+											<div class='fk-editor simpleText fk-editor-break-word  '>
+												<div style="text-align: right;">
+													<span style="font-family: arial, 微软雅黑; font-size: 14px;">
+														<span style="color: rgb(255, 255, 255);">
+															<span style="line-height: 40px;"></span>
+														</span>
+													</span>
+												</div>
+												<div style="text-align: right;">
+													<span style="font-family: arial, 微软雅黑; font-size: 14px;">
+														<span style="color: rgb(255, 255, 255);"></span>
+													</span>
+												</div>
+												<span style="color: rgb(255, 255, 255);">
+													<div style="text-align: right;">
+														<span style="font-family: arial, 微软雅黑; font-size: 14px;"></span>
+													</div>
+													<span style="line-height: 25px;">
+														<div style="text-align: right;">
+															<span style="font-size: 36px;">
+																<span style="line-height: 80px;">
+																	<span style="font-family: 楷体, 楷体_GB2312, SimKai, KaiTi;">
+																		<b>精湛医术 高尚医德</b>
+																	</span>
+																</span>
+															</span>
+															<span style="font-family: arial, 微软雅黑; font-size: 14px;">
+																<br>
+															</span>
+														</div>
+														<div style="text-align: right;">
+															<span style="font-family: arial, 微软雅黑; font-size: 14px;">EXQUISITE MEDICAL SKILL THE BEST MEDICINE</span>
+														</div>
+														<div style="text-align: right;">
+															<span style="font-size: 14px;">
+																<font face="思源宋体 CN Light, 微软雅黑">您的私人定制医生，全心全意为您的健康定制</font>
+															</span>
+														</div>
+													</span>
+												</span>
+											</div>
+										</div>
+									</div>
+
+									<div id='module329'   _modulestyle='79' _moduleid='329'  class='form form329 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:269px;left:605px;width:40px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent329'>
+											<div class='floatImg floatImg_J floatImg_J_special'>
+												<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+													<div class='floatImgWrap'>
+														<div class='forMargin'>
+															<img id='float_img_329' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAghdvY0AUo5JGFiwQwKDgo.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' />
+														</div>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module330'   _modulestyle='79' _moduleid='330'  class='form form330 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:269px;left:729px;width:40px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent330'>
+											<div class='floatImg floatImg_J floatImg_J_special'>
+												<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+													<div class='floatImgWrap'>
+														<div class='forMargin'>
+															<img id='float_img_330' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgh9vY0AUogJWh_AIwKDgo.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' />
+														</div>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module331'   _modulestyle='79' _moduleid='331'  class='form form331 formStyle79 formInZone ' _pdir='1' _pdist='0.4' style='position:absolute;top:269px;left:855px;width:40px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent331'>
+											<div class='floatImg floatImg_J floatImg_J_special'>
+												<a hidefocus='true' class='J_floatImg_jump f_floatImg_jump ' >
+													<div class='floatImgWrap'>
+														<div class='forMargin'>
+															<img id='float_img_331' class=' lazyload_transparent float_in_img J_defImage ' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgiNvY0AUo3dCIbjAoOCg.png' src='//0.ss.faisys.com/image/loading/dot.gif'  alt='' />
+														</div>
+													</div>
+												</a>
+											</div>
+										</div>
+									</div>
+
+									<div id='module332'   _modulestyle='86' _moduleid='332'  class='form form332 formStyle86 formInZone  siteEditor ' _pdir='1' _pdist='0.4' style='position:absolute;top:309px;left:583px;width:85px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent332'>
+											<div class='fk-editor simpleText fk-editor-break-word  '>
+												<div style="text-align: center;">
+													<span style="color: rgb(255, 255, 255); font-family: &quot;思源宋体 CN Light&quot;, 微软雅黑; font-size: 14px; background-color: transparent;"><span style="line-height: 40px;">预约医生</span>
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div id='module333'   _modulestyle='86' _moduleid='333'  class='form form333 formStyle86 formInZone  siteEditor ' _pdir='1' _pdist='0.4' style='position:absolute;top:309px;left:706px;width:85px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent333'>
+											<div class='fk-editor simpleText   '>
+												<div style="text-align: center;">
+													<font color="#ffffff" face="思源宋体 CN Light, 微软雅黑">
+														<span style="font-size: 14px;">
+															<span style="line-height: 40px;">急诊医疗</span>
+														</span>
+													</font>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div id='module334'   _modulestyle='86' _moduleid='334'  class='form form334 formStyle86 formInZone  siteEditor ' _pdir='1' _pdist='0.4' style='position:absolute;top:309px;left:833px;width:85px;' _side='0' >
+										<div class='lightModuleOuterContent lightModuleOuterContent334'>
+											<div class='fk-editor simpleText   '>
+												<div style="text-align: center;">
+													<font color="#ffffff" face="思源宋体 CN Light, 微软雅黑">
+														<span style="font-size: 14px;">
+															<span style="line-height: 40px;">常规检查</span>
+														</span>
+													</font>
+												</div>
+											</div>
+										</div>
+									</div>
+
+			
+                                </div>	  
+                            </div>
+                            
+							<div class="bannerRight"></div>
+
+						</div>
+					</div>
+	    		</div>
+	    	</div> -->
+			
+
+			<div class="absMiddleTable">
+            	<div id="absForms" class="forms sideForms absForms"></div>
+			</div>
+			
+			<div id="fullmeasureTopForms" class="fullmeasureContainer forms fk-fullmeasureForms fullmeasureForms fullmeasureTopForms" style='display:none'>
+				<wbr style='display:none;' />
+			</div>
+
+			<div id="webContainerTable" class="webContainerTable" >
+            	<div id="webContainer" class="webContainer">
+               	 <div id="container" class="container">
+    				<div class="containerTop">
+        				<div class="left"></div>
+						<div class="center"></div>
+						<div class="right"></div>
+    				</div>
+   					 <div class="containerMiddle">
+       					<div id="containerMiddleLeft" class="containerMiddleLeft"></div>
+						<div class="containerMiddleCenter">
+            				<div id="containerMiddleCenterTop" class="containerMiddleCenterTop"></div>
+							<div id="containerForms" class="containerForms">
+                				<div id="topForms" class="column forms mainForms topForms" style='display:none'></div>
+ 				                <table class="containerFormsMiddle" cellpadding='0' cellspacing='0'>
+                   					 <tr>
+                       					 <td valign="top" id="containerFormsLeft" class="containerFormsLeft" >
+                            				<div class="containerFormsLeftTop"></div>
+                           					<div id="leftForms" class="column forms sideForms leftForms">
+<!-- 医院新闻 -->
+												<div id='module342'   _modulestyle='7' _moduleid='342' systemPattern=316 class='form form342 formStyle7 jz-modulePattern316'     style='height: 300px;' _side='0' >
+                                                	<div class='formBanner formBanner342'  >
+														<div class='left left342'></div>
+														<div class='center center342' valign='top'>
+															<div class='formBannerTitle formBannerTitle342'>
+																<span class='titleLeft titleLeft342' valign='top'></span>
+																<div class='titleCenter titleCenter342' valign='top'>
+																	<div class='titleText titleText342'>
+																		<span class='bannerNormalTitle fk_mainTitle mainTitle mainTitle342'>医院新闻</span>
+																	</div>
+																</div>
+																<span class='titleRight titleRight342' valign='top'></span>
+															</div>
+														</div>
+														<div class='right right342'></div>
+													</div>
+													<div class=' formMiddle formMiddle342' style='height:195px; '>
+														<div class='formMiddleCenter formMiddleCenter342 ' valign='top'>
+															<div class='formMiddleContent formMiddleContent342 fk-formContentOtherPadding' tabStyle='0'>
+																<div>
+																	<div class='newsList J_newsList  ' id='newsList342' _showSetting=0 newsListType='0' scroll='0'>
+																		<div topClassName='top1' topSwitch='on' newsId='17' newsName='以站立的姿态为病人撑起一片晴空' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody17' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module342tr17'>
+																					<!-- <td class='contentLineIcon '></td> -->
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																							<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="以站立的姿态为病人撑起一片晴空">以站立的姿态为病人撑起一片晴空</a>
+																					</td>
+																					<!-- <td class='J_newsCalendar newsCalendar' valign='top'>
+																						<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank ></a>
+																					</td> -->
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='16' newsName='热烈祝贺我院新生殖医学中心启用' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody16' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module342tr16'>
+																					<!-- <td class='contentLineIcon '></td> -->
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																							<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="热烈祝贺我院新生殖医学中心启用">热烈祝贺我院新生殖医学中心启用</a>
+																					</td>
+																					<!-- <td class='J_newsCalendar newsCalendar' valign='top'>
+																						<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank ></a>
+																					</td> -->
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+									
+																		<div topClassName='top1' topSwitch='on' newsId='15' newsName='我院热烈欢迎蔡款赴西藏援医' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody15' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module342tr15'>
+																					<!-- <td class='contentLineIcon '></td> -->
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																							<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="我院热烈欢迎蔡款赴西藏援医">我院热烈欢迎蔡款赴西藏援医</a>
+																					</td>
+																					<!-- <td class='J_newsCalendar newsCalendar' valign='top'>
+																						<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank ></a>
+																					</td> -->
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator  newsListSeparatorLine '></div>
+																		<!-- <div class='clearfloat'></div> -->
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+<!-- 行业动态 -->
+              																																							<!-- ↓   style='' _side='0' -->
+												<div id='module343'   _modulestyle='7' _moduleid='343' systemPattern=316 class='form form343 formStyle7 jz-modulePattern316'  >
+													<div class='formBanner formBanner343' >
+														<div class='left left343'></div>
+														<div class='center center343' valign='top'>
+															<div class='formBannerTitle formBannerTitle343'>
+																<span class='titleLeft titleLeft343' valign='top'></span>
+																<div class='titleCenter titleCenter343' valign='top'>
+																	<div class='titleText titleText343'>
+																		<span class='bannerNormalTitle fk_mainTitle mainTitle mainTitle343'>行业动态</span>
+																	</div>
+																</div>
+																<span class='titleRight titleRight343' valign='top'></span>
+															</div>
+														</div>
+														<div class='right right343'></div>
+													</div>
+
+													<div class=' formMiddle formMiddle343' style='height:426px; '>
+														<div class='formMiddleCenter formMiddleCenter343 ' valign='top'>
+															<div class='formMiddleContent formMiddleContent343 fk-formContentOtherPadding' tabStyle='0'>
+																<div>
+																	<div class='newsList J_newsList  ' id='newsList343' _showSetting=0 newsListType='0' scroll='0'>
+																		<div topClassName='top1' topSwitch='on' newsId='13' newsName='25岁少女患罕见妇科肿瘤盼救助' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody13' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>	
+																				<tr id='module343tr13'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="25岁少女患罕见妇科肿瘤盼救助">25岁少女患罕见妇科肿瘤盼救助</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='12' newsName='“上火”喝凉茶 先要看体质' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody12' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module343tr12'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="“上火”喝凉茶 先要看体质">“上火”喝凉茶 先要看体质</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='11' newsName='电线“缠”楼是否有害？' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody11' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module343tr11'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																							<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="电线“缠”楼是否有害？">电线“缠”楼是否有害？</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='10' newsName='宝宝感冒，该不该吃药？' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody10' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module343tr10'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																							<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="宝宝感冒，该不该吃药？">宝宝感冒，该不该吃药？</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='9' newsName='25岁女孩患罕见肿瘤 急需10万元化疗费求助' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody9' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module343tr9'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="25岁女孩患罕见肿瘤 急需10万元化疗费求助">25岁女孩患罕见肿瘤 急需10万元化疗费求助</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='8' newsName='孕24周查血糖，以防变成“糖妈妈”' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody8' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module343tr8'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="孕24周查血糖，以防变成“糖妈妈”">孕24周查血糖，以防变成“糖妈妈”</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='2' newsName='广州市城镇居民基本医疗保险试行办法' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody2' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module343tr2'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="广州市城镇居民基本医疗保险试行办法">广州市城镇居民基本医疗保险试行办法</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='1' newsName='广州市社会医疗保险市级统筹知识问答（摘要）' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody1' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module343tr1'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target=_blank title="广州市社会医疗保险市级统筹知识问答（摘要）">广州市社会医疗保险市级统筹知识问答（摘要）</a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<div class='J_separatorLine separatorLine g_separator  newsListSeparatorLine '></div>
+																		<div class='clearfloat'></div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+                            				<div class="containerFormsLeftBottom"></div>
+                        				</td>
+
+                        				<td valign="top" id="containerFormsCenter" class="containerFormsCenter">
+                							<div id="centerTopForms" class="column forms mainForms centerTopForms" >
+                                				<div id='module335'   _modulestyle='35' _moduleid='335'  class='form form335 formStyle35 layoutModule  formStyle35_2  fk-formCol ' _side='0' >
+													<div class=' formMiddle formMiddle335'>
+														<div class='formMiddleCenter formMiddleCenter335  f-colFormMiddleCenter ' valign='top'>
+															<div class='formMiddleContent formMiddleContent335 multiColFormMiddleContent f-colFormMiddleContent  fk-formContentOtherPadding' tabStyle='0'>
+																<div class='mulMColContent' id='mulMColContent335'>
+																	<table border="0" cellspacing="0" class="mulMColContentTable" cellpadding="0">
+																		<tbody>
+																			<tr>
+																				<td class=" mulColLayout mulColPadding" style="width:495px;">
+																					<div id="mulMCol335_cid_1" class="mulMColList">
+																						<div id='module336'   _modulestyle='1' _moduleid='336' systemPattern=316 class='form form336 formStyle1 formInMulMCol  jz-modulePattern316'     _side='0' >
+																							<div class='formBanner formBanner336' >
+																								<div class='left left336'></div>
+																								<div class='center center336' valign='top'>
+																									<div class='formBannerTitle formBannerTitle336'>
+																										<span class='titleLeft titleLeft336' valign='top'></span>
+																										<div class='titleCenter titleCenter336' valign='top'>
+																											<div class='titleText titleText336'>
+										<!-- rTMS简介 -->														<span class='bannerNormalTitle fk_mainTitle mainTitle mainTitle336'>rTMS简介</span>
+																											</div>
+																										</div>
+																										<span class='titleRight titleRight336' valign='top'></span>
+																									</div>
+																								</div>
+																								<div class='right right336'></div>
+																							</div>
+																							<div class=' formMiddle formMiddle336' >
+																								<div class='formMiddleCenter formMiddleCenter336 ' valign='top'>
+																									<div class='formMiddleContent formMiddleContent336 fk-formContentOtherPadding' tabStyle='0'>
+																										<div class='richModuleSlaveImgContainer richTextImg textImg3' >
+																											<img imgid='ABUIABACGAAgzPqAsAYo8PDh5AEwzAQ4zgI' picide='' marginType='0' picMargin='0' imgurl='' imglinktype='1' imgcolId='2' imgpath='//32264803.s21i.faiusr.com/2/ABUIABACGAAgzPqAsAYo8PDh5AEwzAQ4zgI.jpg' class='richModuleSlaveImg richImg richImg3' alt='AD0ItIWwBxACGAAgnNvY0AUo-LChvAEwhgM4tAE' title='AD0ItIWwBxACGAAgnNvY0AUo-LChvAEwhgM4tAE' src='//32264803.s21i.faiusr.com/2/ABUIABACGAAgzPqAsAYo8PDh5AEwzAQ4zgI.jpg'  />
+																										</div>
+																										<div class='richContent richContent3'>
+																											<div class="jz_fix_ue_img"><p>&nbsp; &nbsp; &nbsp; &nbsp;本项目是与中山大学附属第七医院开展的合作项目，目的是给偏瘫患者的rTMS 治疗提供一个量化恢复系统，便于医生对患者的治疗有较好的把握。</p>
+																												<p>&nbsp; &nbsp; &nbsp; &nbsp;rTMS，即经颅磁刺激，是一种治疗偏瘫患者的常用临床方法。简单地说，是将一块“磁铁”放到患者的脑部，针对特殊的位置进行磁疗。</p>
+																													<p style="text-align:justify;line-height:2.5em;"><br /></p>
+																											</div>
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+																					<div class="mulModuleColStyleLine" ></div>
+																				</td>
+																				<td class="mulColLayout" >
+																					<div id="mulMCol335_cid_2" class="mulMColList">
+																						<div id='module337'   _modulestyle='88' _moduleid='337' systemPattern=372 class='form form337 formStyle88 formInMulMCol  jz-modulePattern372'     _side='0' >
+																							<div class='formBanner formBanner337' >
+																								<div class='left left337'></div>
+																								<div class='center center337' valign='top'>
+																									<div class='formBannerTitle formBannerTitle337'>
+																										<span class='titleLeft titleLeft337' valign='top'></span>
+																										<div class='titleCenter titleCenter337' valign='top'>															
+										<!-- 就医导航 -->													<div class='titleText titleText337'><span class='bannerNormalTitle fk_mainTitle mainTitle mainTitle337'>就医导航</span></div>
+																										</div>
+																										<span class='titleRight titleRight337' valign='top'></span>
+																									</div>
+																								</div>
+																								<div class='right right337'></div>
+																							</div>
+																							<div class=' formMiddle formMiddle337'>
+																								<div class='formMiddleCenter formMiddleCenter337 ' valign='top'>
+																									<div class='formMiddleContent formMiddleContent337 fk-formContentOtherPadding' tabStyle='0'>
+																										<div class='listPhotosList'>
+																											<div class='clearfloat'></div>
+																											<div id='photoForms337' style='overflow:hidden;' class='J_photoForms photoForms' picWidth='86' picHeight='95'>
+																												<div photoId='0' photoName='' photoDisc='' class='J_photoForm photoForm' style='width:86px;margin-left:5px;margin-right:5px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='86' faiHeight='95'>
+																													<div class='J_sortDiv insert_desc_warp_class '>
+																														<div id='photoListAD0ItIWwBxAEGAAgn9vY0AUo0JmtgQUwVjhf' photoName='' photoDisc='' check='2' tmpPic='AD0ItIWwBxAEGAAgn9vY0AUo0JmtgQUwVjhf' _lide='AHYIdhIA' class='J_listPhotoImg imgDiv' style='width:86px;height:95px;'>
+																															<a class='listPhotoListA' hidefocus='true' href="javascript:Site.showBookingPanel(-1, 480, 540);" target='_self'  _lide='AHYIdhIA'>
+																																<img attr src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgn9vY0AUo0JmtgQUwVjhf.png' class='J_photoImg photoImg jz_img_cover' /></a>
+																														</div>
+																														<div class='parametersDiv insert_desc_class ' style='display:none';>
+																														</div>
+																													</div>
+																												</div>
+																												<div photoId='1' photoName='' photoDisc='' class='J_photoForm photoForm' style='width:86px;margin-left:5px;margin-right:5px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='86' faiHeight='95'>
+																													<div class='J_sortDiv insert_desc_warp_class '>
+																														<div id='photoListAD0ItIWwBxAEGAAgodvY0AUoxorZkQEwVjhf' photoName='' photoDisc='' check='2' tmpPic='AD0ItIWwBxAEGAAgodvY0AUoxorZkQEwVjhf' _lide='AGQIZxIA' class='J_listPhotoImg imgDiv' style='width:86px;height:95px;'>
+																															<span  class='listPhotoListA'>
+																																<img attr src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgodvY0AUoxorZkQEwVjhf.png' class='J_photoImg photoImg jz_img_cover' /></span>
+																														</div>
+																														<div class='parametersDiv insert_desc_class ' style='display:none';>
+																														</div>
+																													</div>
+																												</div>
+																												<div photoId='2' photoName='' photoDisc='' class='J_photoForm photoForm' style='width:86px;margin-left:5px;margin-right:5px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='86' faiHeight='95'>
+																													<div class='J_sortDiv insert_desc_warp_class '>
+																														<div id='photoListAD0ItIWwBxAEGAAgo9vY0AUo5tHKhQcwVjhf' photoName='' photoDisc='' check='2' tmpPic='AD0ItIWwBxAEGAAgo9vY0AUo5tHKhQcwVjhf' _lide='AHIIARI6aHR0cDovL3dwYS5xcS5jb20vbXNncmQ/dj0zJnVpbj0yNTg1MDY1MDgmc2l0ZT1xcSZtZW51PXllcw==' class='J_listPhotoImg imgDiv' style='width:86px;height:95px;'>
+																															<a class='listPhotoListA' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target='_blank'  _lide='AHIIARI6aHR0cDovL3dwYS5xcS5jb20vbXNncmQ/dj0zJnVpbj0yNTg1MDY1MDgmc2l0ZT1xcSZtZW51PXllcw=='>
+																																<img attr src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgo9vY0AUo5tHKhQcwVjhf.png' class='J_photoImg photoImg jz_img_cover' /></a>
+																														</div>
+																														<div class='parametersDiv insert_desc_class ' style='display:none';>
+																														</div>
+																													</div>
+																												</div>
+																												<div photoId='3' photoName='' photoDisc='' class='J_photoForm photoForm' style='width:86px;margin-left:5px;margin-right:5px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='86' faiHeight='95'>
+																													<div class='J_sortDiv insert_desc_warp_class '>
+																														<div id='photoListAD0ItIWwBxAEGAAgpNvY0AUoiMS2jQEwVjhf' photoName='' photoDisc='' check='2' tmpPic='AD0ItIWwBxAEGAAgpNvY0AUoiMS2jQEwVjhf' _lide='AHIIARI6aHR0cDovL3dwYS5xcS5jb20vbXNncmQ/dj0zJnVpbj0yNTg1MDY1MDgmc2l0ZT1xcSZtZW51PXllcw==' class='J_listPhotoImg imgDiv' style='width:86px;height:95px;'>
+																															<a class='listPhotoListA' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target='_blank'  _lide='AHIIARI6aHR0cDovL3dwYS5xcS5jb20vbXNncmQ/dj0zJnVpbj0yNTg1MDY1MDgmc2l0ZT1xcSZtZW51PXllcw=='>
+																																<img attr src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgpNvY0AUoiMS2jQEwVjhf.png' class='J_photoImg photoImg jz_img_cover' /></a>
+																														</div>
+																														<div class='parametersDiv insert_desc_class ' style='display:none';>
+																														</div>
+																													</div>
+																												</div>
+																												<div photoId='4' photoName='' photoDisc='' class='J_photoForm photoForm' style='width:86px;margin-left:5px;margin-right:5px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='86' faiHeight='95'>
+																													<div class='J_sortDiv insert_desc_warp_class '>
+																														<div id='photoListAD0ItIWwBxAEGAAgptvY0AUo_NXcngUwVjhf' photoName='' photoDisc='' check='2' tmpPic='AD0ItIWwBxAEGAAgptvY0AUo_NXcngUwVjhf' _lide='AGQIZxIA' class='J_listPhotoImg imgDiv' style='width:86px;height:95px;'>
+																															<span  class='listPhotoListA'>
+																																<img attr src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgptvY0AUo_NXcngUwVjhf.png' class='J_photoImg photoImg jz_img_cover' /></span>
+																														</div>
+																														<div class='parametersDiv insert_desc_class ' style='display:none';>
+																														</div>
+																													</div>
+																												</div>
+																												<div photoId='5' photoName='' photoDisc='' class='J_photoForm photoForm' style='width:86px;margin-left:5px;margin-right:5px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='86' faiHeight='95'>
+																													<div class='J_sortDiv insert_desc_warp_class '>
+																														<div id='photoListAD0ItIWwBxAEGAAgv-3Y0AUo6JuaqAQwVjhf' photoName='' photoDisc='' check='2' tmpPic='AD0ItIWwBxAEGAAgv-3Y0AUo6JuaqAQwVjhf' _lide='AGQIZhIA' class='J_listPhotoImg imgDiv' style='width:86px;height:95px;'>
+																															<a class='listPhotoListA' hidefocus='true' href="http://127.0.0.1:5500/daikaifa.html" target='_blank'  _lide='AGQIZhIA'>
+																																<img attr src='http://127.0.0.1:5500/daikaifa.html' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgv-3Y0AUo6JuaqAQwVjhf.png' class='J_photoImg photoImg jz_img_cover' /></a>
+																														</div>
+																														<div class='parametersDiv insert_desc_class ' style='display:none';>
+																														</div>
+																													</div>
+																												</div>
+																											</div>
+																											<div class='clearfloat'></div>
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+																				</td>
+																			</tr>
+																		</tbody>
+																	</table>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<!-- 图片 -->
+												<div id='module338'   _modulestyle='1' _moduleid='338'  class='form form338 formStyle1'    _side='0' >
+													<div class=' formMiddle formMiddle338'>
+														<div class='formMiddleCenter formMiddleCenter338 ' valign='top'>
+															<div class='formMiddleContent formMiddleContent338 fk-formContentOtherPadding' tabStyle='0'>
+																<div class='richModuleSlaveImgContainer richTextImg textImg3' >
+																	<img imgid='AD0ItIWwBxACGAAgntvY0AUoj5yFsAcwxwU4fA' picide='' marginType='0' picMargin='0' imgurl='' imglinktype='1' imgcolId='2' imgpath='//15467188.s61i.faiusr.com/2/AD0ItIWwBxACGAAgntvY0AUoj5yFsAcwxwU4fA.jpg' class='richModuleSlaveImg richImg richImg3' alt='AD0ItIWwBxACGAAgntvY0AUoj5yFsAcwxwU4fA' title='' src='//15467188.s61i.faiusr.com/2/AD0ItIWwBxACGAAgntvY0AUoj5yFsAcwxwU4fA.jpg'  />
+																</div>
+																<div class='richContent richContent3'></div>
+															</div>
+														</div>
+													</div>
+												</div>
+
+												<div id='module367'   _modulestyle='7' _moduleid='367' systemPattern=221 class='form form367 formStyle7 jz-modulePattern221'  _side='0' >
+													<div class='formBanner formBanner367' >
+														<div class='left left367'></div>
+														<div class='center center367' valign='top'>
+															<div class='formBannerTitle formBannerTitle367'>
+																<span class='titleLeft titleLeft367' valign='top'></span>
+																<div class='titleCenter titleCenter367' valign='top'>
+																	<div class='titleText titleText367'>
+																		<span class='bannerNormalTitle fk_mainTitle mainTitle mainTitle367'>患者信息</span>
+																	</div>
+																</div>
+																<span class='titleRight titleRight367' valign='top'></span>
+															</div>
+														</div>
+														<div class='right right367'></div>
+													</div>
+												<div class=' formMiddle formMiddle367' style='height:327px; '>
+													<div class='formMiddleCenter formMiddleCenter367 ' valign='top'>
+														<div class='formMiddleContent formMiddleContent367 fk-formContentOtherPadding' tabStyle='0'>
+															<div>
+																<!-- 患者一 -->
+																<div class='newsList J_newsList  ' id='newsList367' _showSetting=0 newsListType='0' scroll='0'>
+																	<div topClassName='top1' topSwitch='on' newsId='3' newsName='患者一' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody3' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr3'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B8%80.html" target=_blank title="患者一">患者一</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B8%80.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者二 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																		<div topClassName='top1' topSwitch='on' newsId='5' newsName='患者二' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																			<table id='lineBody5' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																				<tr id='module367tr5'>
+																					<td class='contentLineIcon '></td>
+																					<td class='J_newsTitle newsTitle' valign='top'>
+																						<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%BA%8C.html" target=_blank title="患者二">患者二</a>
+																					</td>
+																					<td class='J_newsCalendar newsCalendar' valign='top'>
+																						<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%BA%8C.html" target=_blank ></a>
+																					</td>
+																				</tr>
+																			</table>
+																		</div>
+																		<!-- 患者三 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='4' newsName='患者三' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody4' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr4'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B8%89.html" target=_blank title="患者三">患者三</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B8%89.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者四 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='18' newsName='患者四' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody18' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr18'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%9B%9B.html" target=_blank title="患者四">患者四</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%9B%9B.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者五 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='15' newsName='患者五' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody15' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr15'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%BA%94.html" target=_blank title="患者五">患者五</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%BA%94.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者六 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='14' newsName='患者六' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody14' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr14'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%85%AD.html" target=_blank title="1">患者六</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%85%AD.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者七 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='16' newsName='患者七' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody16' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr16'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																				<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B8%83.html" target=_blank title="患者七">患者七</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B8%83.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者八 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='17' newsName='患者八' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody17' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr17'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%85%AB.html" target=_blank title="患者八">患者八</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%85%AB.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者九 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='10' newsName='患者九' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody10' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr10'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B9%9D.html" target=_blank title="患者九">患者九</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E4%B9%9D.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='13' newsName='患者十' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody13' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr13'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%8D%81.html" target=_blank title="患者十">患者十</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%8D%81.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十一 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='9' newsName='患者十一' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody9' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr9'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%8D%81%E4%B8%80.html" target=_blank title="患者十一">患者十一</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%8D%81%E4%B8%80.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十二 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='11' newsName='患者十二' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody11' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr11'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%8D%81%E4%BA%8C.html" target=_blank title="患者十二">患者十二</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="http://127.0.0.1:5500/%E6%82%A3%E8%80%85/%E6%82%A3%E8%80%85%E5%8D%81%E4%BA%8C.html" target=_blank ></a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十三 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='6' newsName='2011年国家中西医结合防治脾胃病研修班' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody6' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr6'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=6" target=_blank title="2011年国家中西医结合防治脾胃病研修班">2011年国家中西医结合防治脾胃病研修班</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=6" target=_blank >2017-11-23</a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十四 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='12' newsName='“上火”喝凉茶 先要看体质' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody12' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr12'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=12" target=_blank title="“上火”喝凉茶 先要看体质">“上火”喝凉茶 先要看体质</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=12" target=_blank >2017-11-23</a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十五 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='8' newsName='孕24周查血糖，以防变成“糖妈妈”' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody8' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr8'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																						<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=8" target=_blank title="孕24周查血糖，以防变成“糖妈妈”">孕24周查血糖，以防变成“糖妈妈”</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=8" target=_blank >2017-11-23</a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十六 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='1' newsName='广州市社会医疗保险市级统筹知识问答（摘要）' class='J_newsListLine line g_item   fk-newsLineHeight '>
+																		<table id='lineBody1' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+																			<tr id='module367tr1'>
+																				<td class='contentLineIcon '></td>
+																				<td class='J_newsTitle newsTitle' valign='top'>
+																					<div class='J_newsListTopFlag ' ></div>
+																					<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=1" target=_blank title="广州市社会医疗保险市级统筹知识问答（摘要）">广州市社会医疗保险市级统筹知识问答（摘要）</a>
+																				</td>
+																				<td class='J_newsCalendar newsCalendar' valign='top'>
+																					<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=1" target=_blank >2017-11-23</a>
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<!-- 患者十七-->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='7' newsName='“世界过敏日”我院呼吸科与儿科联合义诊咨询活动' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody7' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr7'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=7" target=_blank title="“世界过敏日”我院呼吸科与儿科联合义诊咨询活动">“世界过敏日”我院呼吸科与儿科联合义诊咨询活动</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=7" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者十八 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='2' newsName='广州市城镇居民基本医疗保险试行办法' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody2' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr2'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=2" target=_blank title="广州市城镇居民基本医疗保险试行办法">广州市城镇居民基本医疗保险试行办法</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=2" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者十九 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='25' newsName='消化内科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody25' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr25'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=25" target=_blank title="消化内科">消化内科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=25" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='23' newsName='骨科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody23' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr23'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=23" target=_blank title="骨科">骨科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=23" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十一 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='26' newsName='神经内科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody26' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr26'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=26" target=_blank title="神经内科">神经内科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=26" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十二 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='22' newsName='泌尿外科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody22' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr22'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=22" target=_blank title="泌尿外科">泌尿外科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=22" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十三 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='21' newsName='麻醉科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody21' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr21'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=21" target=_blank title="麻醉科">麻醉科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=21" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十四 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='20' newsName='创伤外科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody20' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr20'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=20" target=_blank title="创伤外科">创伤外科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=20" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十五 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='19' newsName='器官移植科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody19' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr19'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank title="器官移植科">器官移植科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十六 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='19' newsName='器官移植科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody19' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr19'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank title="器官移植科">器官移植科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十七 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='19' newsName='器官移植科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody19' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr19'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank title="器官移植科">器官移植科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十八 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='19' newsName='器官移植科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody19' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr19'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank title="器官移植科">器官移植科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者二十九 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='19' newsName='器官移植科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody19' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr19'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank title="器官移植科">器官移植科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者三十-->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='19' newsName='器官移植科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody19' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr19'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank title="器官移植科">器官移植科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	<!-- 患者三十一 -->
+																	<div class='J_separatorLine separatorLine g_separator '></div>
+																	<div topClassName='top1' topSwitch='on' newsId='19' newsName='器官移植科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody19' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module367tr19'><td class='contentLineIcon '></td>
+																	<td class='J_newsTitle newsTitle' valign='top'>
+																	<div class='J_newsListTopFlag ' ></div>
+																	<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank title="器官移植科">器官移植科</a>
+																	</td>
+																	<td class='J_newsCalendar newsCalendar' valign='top'>
+																	<a class='fk-newsListDate' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=19" target=_blank >2017-11-23</a>
+																	</td>
+																	</tr>
+																	</table>
+																	</div>
+																	
+																	<div class='J_separatorLine separatorLine g_separator  newsListSeparatorLine '></div>
+																	<div class='clearfloat'></div>
+																</div>
+														    </div>
+														</div>
+													</div>
+												</div>
+											</div>
+
+
+
+
+
+<div id='module344'   _modulestyle='88' _moduleid='344' systemPattern=316 class='form form344 formStyle88 jz-modulePattern316'   _side='0' >
+	<div class='formBanner formBanner344'  >
+		<div class='left left344'></div>
+		<div class='center center344' valign='top'>
+			<div class='formBannerTitle formBannerTitle344'>
+				<span class='titleLeft titleLeft344' valign='top'></span>
+				<div class='titleCenter titleCenter344' valign='top'>
+					<div class='titleText titleText344'>
+						<span class='bannerNormalTitle fk_mainTitle mainTitle mainTitle344'>医疗团队</span>
+					</div>
+				</div>
+				<span class='titleRight titleRight344' valign='top'></span>
+			</div>
+		</div>
+		<div class='right right344'></div>
+	</div>
+	<div class=' formMiddle formMiddle344'>
+		<div class='formMiddleCenter formMiddleCenter344 ' valign='top'>
+			<div class='formMiddleContent formMiddleContent344 fk-formContentOtherPadding' tabStyle='0'>
+
+
+				<div class='listPhotosList'>
+<!-- 周医生 -->
+					<div class='clearfloat'></div>
+					<div id='photoForms344' style='overflow:hidden;' class='J_photoForms photoForms' picWidth='200' picHeight='200'>
+						<div photoId='0' photoName='' photoDisc='周医生
+脑科专家' class='J_photoForm photoForm' style='width:200px;margin-left:22px;margin-right:23px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='200' faiHeight='200'>
+							<div class='J_sortDiv insert_desc_warp_class '>
+								<div id='photoListAD0ItIWwBxAEGAAgl9vY0AUow_vHkQIwyAE4yAE' photoName='' photoDisc='周医生
+脑科专家' check='2' tmpPic='AD0ItIWwBxAEGAAgl9vY0AUow_vHkQIwyAE4yAE' _lide='' class='J_listPhotoImg imgDiv' style='width:200px;height:200px;'>
+									<span  class='listPhotoListA'>
+										<img attr alt='周医生
+脑科专家' title='周医生
+脑科专家' src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgl9vY0AUow_vHkQIwyAE4yAE.png' class='J_photoImg photoImg jz_img_cover' /></span>
+								</div>
+								<div class='parametersDiv insert_desc_class ' >
+									<div class='J_listDesc photoParameters firstLine  unifyPhotoTextGap' title='周医生
+脑科专家' style='text-align:center;margin-left: auto;margin-right: auto;'>周医生<br/>脑科专家
+									</div>
+								</div>
+							</div>
+						</div>
+<!-- 朱护士 -->
+						<div photoId='1' photoName='' photoDisc='朱护士
+住院部护士长' class='J_photoForm photoForm' style='width:200px;margin-left:22px;margin-right:23px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='200' faiHeight='200'>
+							<div class='J_sortDiv insert_desc_warp_class '>
+								<div id='photoListAD0ItIWwBxAEGAAgmNvY0AUo7NKXnAMwyAE4yAE' photoName='' photoDisc='朱护士
+住院部护士长' check='3' tmpPic='AD0ItIWwBxAEGAAgmNvY0AUo7NKXnAMwyAE4yAE' _lide='' class='J_listPhotoImg imgDiv' style='width:200px;height:200px;'>
+									<span  class='listPhotoListA'>
+										<img attr alt='朱护士
+住院部护士长' title='朱护士
+住院部护士长' src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgmNvY0AUo7NKXnAMwyAE4yAE.png' class='J_photoImg photoImg jz_img_cover' /></span>
+									</div>
+									<div class='parametersDiv insert_desc_class ' >
+										<div class='J_listDesc photoParameters firstLine  unifyPhotoTextGap' title='朱护士
+住院部护士长' style='text-align:center;margin-left: auto;margin-right: auto;'>朱护士<br/>住院部护士长
+									</div>
+								</div>
+							</div>
+						</div>
+<!-- 李医生 -->
+						<div photoId='2' photoName='' photoDisc='李医生
+脑科专家' class='J_photoForm photoForm' style='width:200px;margin-left:22px;margin-right:23px;padding-left:0px;padding-right:0px;margin-top:5px;margin-bottom:5px;padding-top:0px;padding-bottom:0px;' faiWidth='200' faiHeight='200'>
+							<div class='J_sortDiv insert_desc_warp_class '>
+								<div id='photoListAD0ItIWwBxAEGAAgmtvY0AUoraePnwUwyAE4yAE' photoName='' photoDisc='李医生
+脑科专家' check='2' tmpPic='AD0ItIWwBxAEGAAgmtvY0AUoraePnwUwyAE4yAE' _lide='' class='J_listPhotoImg imgDiv' style='width:200px;height:200px;'>
+									<span  class='listPhotoListA'>
+										<img attr alt='李医生
+脑科专家' title='李医生
+脑科专家' src='//0.ss.faisys.com/image/loading/dot.gif' data-original='//15467188.s61i.faiusr.com/4/AD0ItIWwBxAEGAAgmtvY0AUoraePnwUwyAE4yAE.png' class='J_photoImg photoImg jz_img_cover' /></span>
+									</div>
+									<div class='parametersDiv insert_desc_class ' >
+										<div class='J_listDesc photoParameters firstLine  unifyPhotoTextGap' title='李医生
+脑科专家' style='text-align:center;margin-left: auto;margin-right: auto;'>李医生<br/>脑科专家
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class='clearfloat'></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="containerFormsCenterMiddle J_containerFormsCenterMiddle">
+    <div id="middleLeftForms" class="column forms mainForms middleLeftForms" style='display:none'></div>
+    <div id="middleRightForms" class="column forms mainForms middleRightForms" style='display:none'></div>	
+    <div class="clearfloat"></div>
+</div>
+
+<div id="centerBottomForms" class="column forms mainForms centerBottomForms" style='display:none'></div>
+	</td>
+		<td valign="top" id="containerFormsRight" class="containerFormsRight" style='display:none'>
+			<div class="containerFormsRightTop"></div>
+			<div id="rightForms" class="column forms sideForms rightForms"></div>
+			<div class="containerFormsRightBottom"></div>
+		</td>
+	</tr>
+</table>
+
+						<div id="bottomForms" class="column forms mainForms bottomForms" style='display:none'></div>
+						<div id="containerPlaceholder" class="containerPlaceholder" ></div>
+					</div>
+					<div id="containerMiddleCenterBottom" class="containerMiddleCenterBottom"></div>
+				</div>
+				<div id="containerMiddleRight" class="containerMiddleRight"></div>
+			</div>
+			<div class="containerBottom">
+				<div class="left"></div>
+				<div class="center"></div>
+				<div class="right"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="fullmeasureBottomForms" class="fullmeasureContainer forms fk-fullmeasureForms fullmeasureForms fullmeasureBottomForms" style='display:none'>
+	<wbr style='display:none;' />
+</div>
+<div class="absBottomTable">
+    <div id="absBottomForms" class="forms sideForms absForms">
+        <div style="position:absolute;"></div>
+    </div>
+</div>
+		
+<div id="webFooterTable" class="webFooterTable J_webFooterTable" >
+    <div class="fk-moduleZoneWrap">
+        <div id="fk-webFooterZone" class="elemZone elemZoneModule J_moduleZone fk-webFooterZone fk-moduleZone forms sideForms">
+            <div class="fk-moduleZoneBg fk-elemZoneBg J_zoneContentBg elemZoneBg"></div>
+        </div>
+		<div id="webFooter" class="webFooter">
+			<div id='footer' class='footer' >
+				<div class='footerTop'>
+					<div class='topLeft'></div>
+					<div class='topCenter'></div>
+					<div class='topRight'></div>
+				</div>
+				<div class='footerMiddle'>
+					<div class='middleLeft'></div>
+					<div class='middleCenter' align='center'>
+						<div class='footerContent'>
+							<div class='footerInfo footerInfoV2 J_footerInfo'>©2024 - 我的网站 版权所有</div>
+							<div class='footerSupport' id='footerSupport' >
+								<span class='footerMobile J_supportItem'>
+									<a hidefocus='true' href='http://127.0.0.1:5500/daikaifa.html' target='_blank'>手机版</a>
+								</span>       
+								<span class='footerSep J_footerSep'>|</span>
+								<span class='footerFaisco J_supportItem'>本站使用
+									<a class='J_supportLink' hidefocus='true' href='http://127.0.0.1:5500/daikaifa.html' onclick='Site.logDog(100065, 0);' target='_blank' ><svg id='faisco-icons-logo' class='toolbar_site_logo' style='width: 22px; height: 16px; padding-left:2px;position:relative; top: 3px;'>
+										<use xlink:href='#icon_site_logo_no_color'></use>
+									</svg>我的网站</a>
+									<span style='padding-left:8px;' class='J_buildText'>搭建
+									</span>
+								</span>       
+								<span class='footerSep J_footerSep'>|</span>           
+								<span id='footerLogin' class='footerLogin J_supportItem'>
+									<a name='popupLogin' hidefocus='true' href='http://127.0.0.1:5500/daikaifa.html' onclick='Fai.closeTip("#footerLogin");Site.logDog(200584,0);'>管理登录</a>
+								</span>       		
+								<span class='footerSep J_footerSep footerIpv6Step' style='display:none;'>|
+								</span>           	
+								<span id='footerIpv6' class='footerIpv6 J_supportItem' style='position:relative;display:none;'>					
+									<svg style='vertical-align: middle;margin-top: -2px;width:40px;height:19px;'>
+										<use xlink:href='#icon_ipv6'></use>
+									</svg>				
+								</span>                    
+								<span class='bgplayerButton' id='bgplayerButton' style='display:none;'>
+								</span>
+								<span class='jz_bgMusic_container J_bgMusic'  style='display:none;' type='0'>
+									<canvas class='jz_bgPlay jz_bgPlay_0' id='jz_bgPlay_0' width='20' height='12'></canvas>
+									<span class='jz_bgPlay jz_bgPlay_1'>
+										<span class='bgPlay_wrap'>
+											<i class='bgPlay_inner'>
+												<span class='bgPlay_before'></span>
+												<span class='bgPlay_after'></span>
+											</i>
+											<svg class='jz_bgPlay_circle'>
+												<use xlink:href='#icon_circle'></use>
+											</svg>
+										</span>
+									</span>
+									<span class='jz_bgPlay jz_bgPlay_2'>
+										<span class='bgPlay_wrap'>
+											<i class='bgPlay_inner'>
+												<span class='bgPlay_before'></span>
+												<span class='bgPlay_after'></span>
+											</i>
+										</span>
+										<span class='bgPlay_text_container'>
+											<span class='bgPlay_text_wrap'>
+												<span class='bgPlay_text_inner'>
+													<span class='bgPlay_text_singer'></span>
+													<span class='bgPlay_text_split'>-</span>
+													<span class='bgPlay_text_song'></span>
+												</span><span class='bgPlay_text_inner'>
+													<span class='bgPlay_text_singer'></span>
+													<span class='bgPlay_text_split'>-</span>
+													<span class='bgPlay_text_song'></span>
+												</span>
+											</span>
+										</span>
+									</span>
+								</span>
+							</div>
+						</div>
+					</div>
+					<div class='middleRight'></div></div><div class='footerBottom'>
+						<div class='bottomLeft'></div>
+						<div class='bottomCenter'></div>
+						<div class='bottomRight'></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfloat"></div>
+</div>	
+
+<!-- 基本医疗测试 -->
+<div class="floatLeftTop manageTranTop"  >
+	<div id="floatLeftTopForms" class="forms sideForms floatForms">
+		<div id='module347'   _modulestyle='7' _moduleid='347' systemPattern=221 class='form form347 formStyle7 jz-modulePattern221'     style='position:absolute;top:118px;left:-240px;width:240px;' _side='1' >
+			<div class='formBanner formBanner347' >
+				<div class='left left347'></div>
+				<div class='center center347' valign='top'>
+					<div class='formBannerTitle formBannerTitle347'>
+						<span class='titleLeft titleLeft347' valign='top'></span>
+						<div class='titleCenter titleCenter347' valign='top'>
+							<div class='titleText titleText347'>
+								<span class='bannerNormalTitle fk_mainTitle mainTitle mainTitle347'>基本医疗测试</span>
+							</div>
+						</div>
+						<span class='titleRight titleRight347' valign='top'></span>
+					</div>
+					<div class='formBannerOther formBannerOther347'>
+						<div class='formBannerBtn formBannerBtn347'>
+							<span style='_display:inline-block;_position:relative;'>
+								<a hidefocus='true'  href='javascript:;'  onclick='Site.closeAd("module347");return false;' class='g_close'>
+									<span class='bannerMoreInnerSpan' style='_display:none;' >&nbsp;</span>
+								</a>
+							</span>
+						</div>
+&nbsp;				</div>
+				</div>
+				<div class='right right347'></div>
+			</div>
+			<div class=' formMiddle formMiddle347' >
+				<div class='formMiddleCenter formMiddleCenter347 ' valign='top'>
+					<div class='formBannerOther formBannerOther347 fk-formContentOther'>
+						<div class='formBannerBtn formBannerBtn347'>
+							<span style='_display:inline-block;_position:relative;'>
+								<a hidefocus='true'  href='javascript:;'  style='font-size: 40px; font-family: icomoon, 微软雅黑, microsoft yahei, 宋体, 新宋体; font-weight: normal; text-decoration: none;' onclick='Site.closeAd("module347");return false;' class='g_close'>
+									<span class='bannerMoreInnerSpan' style='_display:none;' >&nbsp;</span>
+								</a>
+							</span>
+						</div>
+&nbsp;				</div>
+					<div class='formMiddleContent formMiddleContent347 fk-formContentOtherPadding' tabStyle='0'>
+						<div>
+							<div class='newsList J_newsList  ' id='newsList347' _showSetting=0 newsListType='0' scroll='0'>
+<!-- 测试1 -->
+								<div topClassName='top1' topSwitch='on' newsId='26' newsName='神经内科' class='J_newsListLine line g_item   fk-newsLineHeight '>
+									<table id='lineBody26' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'>
+										<tr id='module347tr26'>
+											<td class='contentLineIcon '></td>
+											<td class='J_newsTitle newsTitle' valign='top'>
+												<div class='J_newsListTopFlag ' ></div>
+												<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=26" target=_blank title="神经内科">神经内科</a>
+											</td>
+										</tr>
+									</table>
+								</div>
+								<div class='J_separatorLine separatorLine g_separator '></div>
+<!-- 测试二	-->
+								<div topClassName='top1' topSwitch='on' newsId='25' newsName='消化内科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody25' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module347tr25'><td class='contentLineIcon '></td>
+								<td class='J_newsTitle newsTitle' valign='top'>
+								<div class='J_newsListTopFlag ' ></div>
+								<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=25" target=_blank title="消化内科">消化内科</a>
+								</td>
+								</tr>
+								</table>
+								</div>
+								<div class='J_separatorLine separatorLine g_separator '></div>
+<!-- 测试三 -->
+								<div topClassName='top1' topSwitch='on' newsId='23' newsName='骨科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody23' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module347tr23'><td class='contentLineIcon '></td>
+								<td class='J_newsTitle newsTitle' valign='top'>
+								<div class='J_newsListTopFlag ' ></div>
+								<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=23" target=_blank title="骨科">骨科</a>
+								</td>
+								</tr>
+								</table>
+								</div>
+<!-- 测试四 -->
+								<div class='J_separatorLine separatorLine g_separator '></div>
+								<div topClassName='top1' topSwitch='on' newsId='22' newsName='泌尿外科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody22' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module347tr22'><td class='contentLineIcon '></td>
+								<td class='J_newsTitle newsTitle' valign='top'>
+								<div class='J_newsListTopFlag ' ></div>
+								<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=22" target=_blank title="泌尿外科">泌尿外科</a>
+								</td>
+								</tr>
+								</table>
+								</div>
+<!-- 测试五 -->
+								<div class='J_separatorLine separatorLine g_separator '></div>
+								<div topClassName='top1' topSwitch='on' newsId='21' newsName='麻醉科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody21' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module347tr21'><td class='contentLineIcon '></td>
+								<td class='J_newsTitle newsTitle' valign='top'>
+								<div class='J_newsListTopFlag ' ></div>
+								<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=21" target=_blank title="麻醉科">麻醉科</a>
+								</td>
+								</tr>
+								</table>
+								</div>
+								<div class='J_separatorLine separatorLine g_separator  newsListSeparatorLine '></div>
+								<!-- 测试六 -->
+								<div class='J_separatorLine separatorLine g_separator '></div>
+								<div topClassName='top1' topSwitch='on' newsId='21' newsName='麻醉科' class='J_newsListLine line g_item   fk-newsLineHeight '><table id='lineBody21' class='J_lineBody lineBody'  cellpadding='0' cellspacing='0'><tr id='module347tr21'><td class='contentLineIcon '></td>
+								<td class='J_newsTitle newsTitle' valign='top'>
+								<div class='J_newsListTopFlag ' ></div>
+								<a class='fk-newsListTitle' hidefocus='true' href="https://jn29759746.jzfkw.net/nd.jsp?id=21" target=_blank title="麻醉科">麻醉科</a>
+								</td>
+								</tr>
+								</table>
+								</div>
+								<div class='J_separatorLine separatorLine g_separator  newsListSeparatorLine '></div>
+
+								<div class='clearfloat'></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="floatRightTop manageTranTop"  >
+	<div id="floatRightTopForms" class="forms sideForms floatForms"></div>
+</div>
+<div class="floatLeftBottom">
+	<div id="floatLeftBottomForms" class="forms sideForms floatForms"></div>
+</div>
+<div class="floatRightBottom">
+	<div id="floatRightBottomForms" class="forms sideForms floatForms"></div>
+</div>
+<div id="popupLevel" class="popupLevel">
+	<div id="popupLevelWrap" class='popupLevelWrap'>
+		<div id="popupLevelEditToolArea" class="popupLevelEditToolArea">
+			<div id="popupLevelEditPanel" class="popupLevelEditPanel"></div>
+			<div id="popupLevelEditTool" class="popupLevelEditTool"></div>
+		</div>
+		<div id="popupLevelForms" class="forms sideForms popupLevelForms"></div>
+	</div>
+</div>
+<div id="bgMusic" class="bgMusic"></div>	
+<link type='text/css' href='//2.ss.faisys.com/css/dist/styles/fontsIco.min.css?v=202402221530' rel='stylesheet' />
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+try{
+
+Fai.top = window;
+Fai.top.manageAuth = false;
+Fai.top.mobiDesignAuth = false;
+Fai.top.packManualVersion = false;
+Fai.top._onlyHasBannerEditAuth = false;
+Fai.top._formManageAuth = false;
+Fai.top.openMsgSearch = false; 
+Fai.top.pageName = "首页";   
+Fai.top._reqArgs = "";
+Fai.top.isNeed = false;  
+Fai.top.businessId = 2;  
+Fai.top.sceneId104 = 104;  
+Fai.top.sceneId105 = 105;  
+Fai.top.sceneId106 = 106;  
+Fai.top.siteHost = "jn29759746.jz.fkw.com";      
+Fai.top._isLoginO = false; 
+Fai.top.isSale = false; 
+Fai.top.domainBind = 1;
+Fai.top.enableGuide = true;
+Fai.top._templateFrame = 940;
+Fai.top._majorColorData = "#02b2b5";
+Fai.top.isJzAllSiteV2 = true;
+Fai.top.supportHttps = true;
+Fai.top.jzVersion = 1;
+Fai.top._supportFileTypeList = ["jpg","jpeg","png","pdf","gif","docx","txt","pptx","rar","mp3","mp4","wav","wma","flac","xls","xlsx","zip","doc"];
+Fai.top.contextMenuDisabled = false;  
+Fai.top._navStyleV2Data = {"no":true,"s":0,"snt":0,"onft":false,"nmove":1,"oinc":false,"nhi":true,"ns":{"y":1,"w":531,"h":40},"np":{"y":1,"t":148,"l":2},"nct":{"y":0,"cw":210},"nal":{"y":0},"nifc":{"y":0,"ic":"","sc":""},"nif":{"y":0,"fs":12,"ff":"","ic":"","sc":"","w":0,"i":0,"d":0},"nis":{"y":1,"w":-1,"h":40},"nisp":{"y":0,"s":0,"h":0,"c":""},"nir":{"y":0,"s":0},"nib":{"y":0,"c":"","s":0,"t":true,"b":true,"l":true,"r":true},"snfc":{"y":0},"snf":{"y":0},"snr":{"y":0},"snb":{"y":0,"t":true,"b":true,"l":true,"r":true},"ncb":false,"arrow":{"v":false,"s":0},"ni":{"v":false,"p":0,"s":false,"sv":24},"nbg":{"c":"","f":"","p":"","y":0},"nsif":{"y":0},"snm":{"y":0},"snlw":{"y":0},"sntf":{"y":0},"snab":{"y":0},"tnfc":{"y":0},"tnf":{"y":0,"ta":0},"tnr":{"y":0},"tnb":{"y":0,"t":true,"b":true,"l":true,"r":true},"ndl":false,"ndls":0,"nsucc":false,"nscc":"","fts":{"nifc":{"y":0,"ic":"","sc":""},"nif":{"y":0,"fs":12,"ff":"","ic":"","sc":"","w":0,"d":0,"i":0},"nsif":{"y":0},"nisp":{"y":0,"c":"","s":0,"h":0},"nir":{"y":0,"s":0},"nib":{"y":0,"t":true,"b":true,"l":true,"r":true,"s":0,"c":""},"nbg":{"y":0,"c":"","f":"","p":""}},"nst":0,"nmw":960};				  		
+Fai.top.haveMallData = true;
+Fai.top._firstOpenRapid = true;
+Fai.top._newPerform = true;
+Fai.top.resMap = {
+	css:{
+		highLight: "//2.ss.faisys.com/css/dist/styles/highLight.min.css?v=202402221530",
+		paydialog: "//2.ss.faisys.com/css/dist/styles/dialog.min.css?v=202402221530",
+		oldColorPicker: "//2.ss.faisys.com/css/comm/colorpicker/colorpicker.min.css?v=202307101206",
+		questionwrap: "//2.ss.faisys.com/css/dist/styles/questionwrap.min.css?v=202402221530",
+		material:"//fe.faisys.com/material_library_1_0/css/app.min.css?v=202403201355",
+		guidePanel:"//2.ss.faisys.com/css/dist/guidePanel.min.css?v=202402221530",
+		navPackPanel:"//2.ss.faisys.com/css/dist/styles/packPanel.min.css?v=202402221530"
+	},
+	js:{
+		svgAnime:"//1.ss.faisys.com/js/comm/animate.min.js?v=202307101206",
+		domClip:"//1.ss.faisys.com/js/dist/libs/domToImage.min.js?v=202402221530",
+		material_vendor:"//fe.faisys.com/material_library_1_0/js/vendor.min.js?v=202403201355",
+		material:"//fe.faisys.com/material_library_1_0/js/app.min.js?v=202403201355",
+		contextMenu:"//1.ss.faisys.com/js/comm/jquery/jquery-contextMenu.min.js?v=202307101206",
+		parallax:"//1.ss.faisys.com/js/comm/jquery/jquery-parallax.min.js?v=202307101206",
+		guidePanel:"//1.ss.faisys.com/js/dist/guidePanel.min.js?v=202402221530",
+		navPackPanel:"//1.ss.faisys.com/js/dist/libs/packPanelCompon.min.js?v=202402221530",
+		swfUpload:"//1.ss.faisys.com/js/comm/SWFUpload2v/swfupload.min.js?v=202307101206",
+	    jqUpload:"//1.ss.faisys.com/js/comm/SWFUpload2v/jquery.uploadify.min.js?v=202307101206",
+	    three:"//1.ss.faisys.com/js/comm/three/three.min.js?v=202307101206", 
+	    sphereviewer:"//1.ss.faisys.com/js/comm/three/photo-sphere-viewer.min.js?v=202307101206",
+	    booking:"//1.ss.faisys.com/js/dist/libs/bookingSubmitPanel.min.js?v=202403181119"
+	}
+}
+Fai.top.carousel3D = {};
+Fai.top._siteStat_ndId = -1;
+Fai.top._siteStat_pdId = -1;
+Fai.top.siteTipList = [];
+Fai.top.cutPicture = false;
+Fai.top.isSite = true;
+
+
+Fai.top.limit_animation = false;
+Fai.top.limit_pic_effect = false;
+Fai.top.isJzCdnFlowLimit = false;
+Fai.top.webpOptOpen = true; 					
+	Fai.top.viewUrl = 'https://jn29759746.jzfkw.net/cn/view.jsp';
+	var _Global = {},
+	_newRapidSite = true,
+	_canNewsScore = false,
+	bgmCloseToOpen = false,
+	_newsGuideJumpToTemplateUrl = 'sf16590494.jz.fkw.com',
+	isGuide_sample = false,
+	_showNewUsersGuide = false,
+	_newsGuideClickHelp = false,
+	_newsGuideCopyDemo = false,
+	_newsGuideReplaceImg = false,
+	_newsGuideAddModule = false,
+	_newsGuideClickPanel = false,
+	newGuideCreateCol = false,
+	newGuideEditBanner = false,
+	newPhotoSlidesGrayTest = true,
+	_loginDays = 1,
+	_devMode = false,
+	_guideNewUserStep = -1,
+	_inGuideNewUser = false,
+	_isSupportPreTestUser = false,
+	optingStep = 0,
+	guide_continue = 0,
+	_creatNewSite = false,
+	_isOpenRapid = true,
+	isEnterRapidFirst = false,												
+	_newUser = false,
+	_colOtherStyleData = {"independentList":[],"hh":false,"fh":false,"y":0,"h":0,"layout4Width":0,"layout5Width":0},					   
+	_templateOtherStyleData = {"independentList":[],"hh":false,"fh":false,"h":210,"y":0,"layout4Width":0,"layout5Width":0},		
+	_allowedHtmlUrl = false,
+	_openHtmlUrl = false,
+	_isBUser = true,
+	showQRCode = false,
+	productQRCodeOpen = false,
+	_isCliIdBUse = false,
+	manageClose = false,
+	isFirstLogin = false,										
+	_isMallWeb = false,
+	_proSiteQueryStr = '',//by jser
+	httpStr = 'https://',
+    _fromModuleCenter = false,
+    _fromJzAllSite = false,
+	vipExpireTime = '',
+	_companyGoalIsSite = false,  
+	_companyGoal11 = 7,  
+	_headerTopStyle = {"hts":-1,"hg":{"c":"transparent","f":"","r":3,"ps":0,"p":"","y":0},"zh":false,"pres":4,"hf":false,"hfb":{"c":"","f":"","r":3,"ps":0,"p":"","y":0},"hftt":1,"sfts":false,"se":false,"m":{},"bb":{"y":0},"fsd":{"t":0,"dx":0,"dy":0,"f":6,"c":"#000000"}},			  // 顶部样式（模板）
+    _customHeaderTopStyle = {"hts":-1,"hg":{"f":"","p":"","y":0,"r":3,"ps":0,"c":""},"m":{},"bb":{"y":0},"zh":false,"pres":-1,"hf":false,"hfb":{"f":"","p":"","y":0,"r":3,"ps":0,"c":""},"hftt":1,"sfts":false,"fsd":{"t":0,"dx":0,"dy":0,"f":6,"c":"#000000"},"se":false},  // 自定义顶部样式
+	_titleData = {"x":"<div class=\"newPrimaryTitle\"><span style=\"color: rgb(255, 255, 255); font-size: 36px;\">偏瘫患者rTMS治疗恢复量化系统<\/span><\/div>","ins":true,"fp":false,"st":{"y":0,"x":"","f":"","c":"","s":0,"i":0,"w":0,"u":0},"jm":{"y":0},"t":35,"fl":[],"fts2":{"f":{"c":"","d":-1,"w":-1,"i":-1}},"h":false,"l":-1,"f":"","s":-1,"w":0,"c":"","i":0,"u":0,"ps":0};							
+    _Global.useElevatorNav = false;
+    _Global.isUseElevatorNav =false;
+    _Global.isHomePage =true;
+    _Global.moduleManage = false;
+	_Global.newsManage = false;
+	_Global._useTemplateBackground = true,		
+	_Global.openSuspendServ = false,		
+	_useTemplateLocale = true,					
+    _localeData = {"h":false,"x":"中文","y":"English","z":"繁体","v":"日本語","k":"한국어","lo":"ພາສາລາວ","th":"ภาษาไทย","es":"Español","ru":"русский","fra":"français","it":"Italia","de":"Deutsch","ug":"ئۇيغۇرچە","pt":"Português","vi":"Tiếng Việt","msw":"Bahasa Melayu","pl":"Polski","ar":"عربي","tr":"Türkçe","sv":"Svenska","no":"Norsk","lb":"lëtzebuergesch","id":"Bahasa Indonesia","el":"Ελληνικά","fi":"Suomi","da":"Dansk","cs":"Čeština","nl":"Nederlands","bg":"Български","ro":"Română","hu":"Magyar","lt":"lietuvių kalba","lv":"latviski","et":"Eesti keel","hr":"Hrvatski","sk":"Slovenský jazyk","sl":"Slovenščina","fa":"فارسی","he":"עברית","uk":"Українська","ur":"اردو","bn":"বাংলা","is":"íslenskur","sr":"Српски","ca":"Català","km":"កម្ពុជា។","lp":false,"f":"","s":-1,"w":-1,"fp":false,"fts":{"f":{"c":"","d":0,"w":-1,"f":"","s":-1,"i":0},"fp":false}},							
+	_templateLocaleData = {"h":false,"x":"中文","y":"English","z":"繁体","v":"日本語","k":"한국어","lo":"ພາສາລາວ","th":"ภาษาไทย","es":"Español","ru":"русский","fra":"français","it":"Italia","de":"Deutsch","ug":"ئۇيغۇرچە","pt":"Português","vi":"Tiếng Việt","msw":"Bahasa Melayu","pl":"Polski","ar":"عربي","tr":"Türkçe","sv":"Svenska","no":"Norsk","lb":"lëtzebuergesch","id":"Bahasa Indonesia","el":"Ελληνικά","fi":"Suomi","da":"Dansk","cs":"Čeština","nl":"Nederlands","bg":"Български","ro":"Română","hu":"Magyar","lt":"lietuvių kalba","lv":"latviski","et":"Eesti keel","hr":"Hrvatski","sk":"Slovenský jazyk","sl":"Slovenščina","fa":"فارسی","he":"עברית","uk":"Українська","ur":"اردو","bn":"বাংলা","is":"íslenskur","sr":"Српски","ca":"Català","km":"កម្ពុជា។","lp":false,"f":"","s":-1,"w":-1,"fp":false,"fts":{"f":{"c":"","d":0,"w":-1,"f":"","s":-1,"i":0},"fp":false}};			
+	var datePickerCssSource = "//2.ss.faisys.com/css/dist/styles/datepicker.min.css?v=202402221530";
+	
+	var _homeHost = "www.fkw.com";
+var _templateDefLayout = {BANNER_NAV:0,NAV_FLOAT:1,LEFT_NAV_BANNER_RIGHT_HIDE:3,LEFT_NAV_CENTER_BANNER_RIGHT_HIDE:4,LEFT_BANNER_NAV_RIGHT_HIDE:5,LEFT_NAV_EXPEND_CENTER_BANNER:6,CENTER_TOP_BANNER_RIGHT_HIDE:7,LEFT_HIDE_CENTER_TOP_BANNER:8,NAV_FLOAT_ON_BANNER:9,NAV_BANNER:10}; 
+Fai.top.isIncToVue = false;
+
+
+
+$(function() {
+	if (Fai.top.isJzCdnFlowLimit) {
+		Site.initVideoResourceHandler();
+		Site.initAudioResourceHandler();
+	}
+
+	
+		Site.ajaxLoadModuleDom(2, 0, {"_ajaxLoadModuleList":[],"_partDomInfoList":[],"fullUrl":"http://127.0.0.1:5500/test1.html"});
+	
+	Site.showOrHideMailBox();
+	
+
+	Site.loadLastLoginAcct('jn29759746');
+
+	Site.bindBeforeUnloadEvent(false, false, false);
+	Site.initTemplateLayout(_templateDefLayout.NAV_FLOAT, true, false );
+	
+	// ajax统计
+	Site.total({colId:2, pdId:-1, ndId:-1, sc:0, statId:statId});
+	//保留旧用户的初始化版式区域4 和区域5 中，区域4的padding-right空间
+	Site.colLayout45Width();
+	//各个模块inc吐出脚本
+	Site.initCorpTitleJump();
+Site.initCorpTitle({"fontList":[]});
+jzModule.Module.install({"id":314,"type":1,"style":79,"module":{"id":314,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":315});jzModule.Module.install({"id":315,"type":1,"style":86,"module":{"id":315,"commProp":{"al":[],"cal":[]},"style":86,"flag":5,"prop0":0},"perform":{"moduleAttr":{"_autoHeight":0}}});
+
+jzModule.Module.install({"id":318,"type":1,"style":79,"module":{"id":318,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","_sys":1,"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":319});jzModule.Module.install({"id":319,"type":1,"style":86,"module":{"id":319,"commProp":{"al":[],"cal":[]},"style":86,"flag":7,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","_sys":1,"_autoHeight":0}}});
+
+jzModule.Module.install({"id":321,"type":1,"style":79,"module":{"id":321,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","_sys":1,"_autoHeight":0}}});
+
+jzModule.Module.install({"id":322,"type":1,"style":79,"module":{"id":322,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","_sys":1,"_autoHeight":0}}});
+
+jzModule.Module.install({"id":323,"type":1,"style":79,"module":{"id":323,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","_sys":1,"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":324});jzModule.Module.install({"id":324,"type":1,"style":86,"module":{"id":324,"commProp":{"al":[],"cal":[]},"style":86,"flag":7,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","_sys":1,"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":325});jzModule.Module.install({"id":325,"type":1,"style":86,"module":{"id":325,"commProp":{"al":[],"cal":[]},"style":86,"flag":7,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","_sys":1,"_autoHeight":0}}});
+
+jzModule.Module.install({"id":326,"type":1,"style":79,"module":{"id":326,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":328});jzModule.Module.install({"id":328,"type":1,"style":86,"module":{"id":328,"commProp":{"al":[],"cal":[]},"style":86,"flag":7,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+jzModule.Module.install({"id":329,"type":1,"style":79,"module":{"id":329,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+jzModule.Module.install({"id":330,"type":1,"style":79,"module":{"id":330,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+jzModule.Module.install({"id":331,"type":1,"style":79,"module":{"id":331,"commProp":{"al":[],"cal":[]},"style":79,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":332});jzModule.Module.install({"id":332,"type":1,"style":86,"module":{"id":332,"commProp":{"al":[],"cal":[]},"style":86,"flag":7,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":333});jzModule.Module.install({"id":333,"type":1,"style":86,"module":{"id":333,"commProp":{"al":[],"cal":[]},"style":86,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+jzModule.SimpleTextModule.initSimpleTextLazyLoad( {"fontList":[],"isExecInitSimpleText":false,"initSimpleTextData":{},"writingMode":0,"moduleId":334});jzModule.Module.install({"id":334,"type":1,"style":86,"module":{"id":334,"commProp":{"al":[],"cal":[]},"style":86,"flag":0,"prop0":0},"perform":{"moduleAttr":{"_banId":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","_sys":1,"_autoHeight":0}}});
+
+Site.loadNewsList(342, {"y":0,"s":0,"w":1}, true);
+Site.loadNewsNewStyle(342, false,false,false,true,false,false,false,false,true,false,false);
+jzModule.Module.install({"id":342,"type":1,"style":7,"module":{"id":342,"commProp":{"al":[{"t":0,"s":1.0,"d":0.0,"c":1},{"t":0,"s":1.0,"d":0.0,"c":1}],"cal":[]},"style":7,"flag":72221254,"prop0":20},"perform":{"moduleAttr":{"_autoHeight":0}}});
+
+Site.loadNewsList(343, {"y":0,"s":0,"w":1}, true);
+Site.loadNewsNewStyle(343, false,false,false,true,false,false,false,true,true,false,false);
+jzModule.Module.install({"id":343,"type":1,"style":7,"module":{"id":343,"commProp":{"al":[{"t":0,"s":1.0,"d":0.0,"c":1},{"t":0,"s":1.0,"d":0.0,"c":1}],"cal":[]},"style":7,"flag":72221255,"prop0":20},"perform":{"moduleAttr":{"_autoHeight":0}}});
+
+$(function(){Site.hoverChangeImage('#module336');});
+Site.actionForUECallback({ id:'336'});
+jzModule.Module.install({"id":336,"type":1,"style":1,"module":{"id":336,"commProp":{"al":[],"cal":[]},"style":1,"flag":8,"prop0":3},"perform":{"moduleAttr":{"_inMulMCol":335}}});
+
+Site.loadPhotoList(337, 2, true, 1,'listPhotos');
+jzUtils.run({ "name": "ImageEffect.FUNC.BASIC.Init", "callMethod": true }, {"moduleId": 337, "imgEffOption": {"effType":1,"borderType":false,"borderColor":"#000","borderWidth":1,"borderStyle":1,"style":88,"fullMaskCusBg":false,"fullMaskCusDisc":false,"halfMaskCusBg":false,"halfMaskCusDisc":false,"fullMaskOpenDisc":false}, "tagetOption": {"nameHidden":true,"nameWordWrap":false,"targetParent":"photoForm","target":"J_listPhotoImg","picScale":2}, "callback": Site.createImageEffectContent_photo, "callbackArgs": []});jzModule.Module.install({"id":337,"type":1,"style":88,"module":{"id":337,"commProp":{"al":[],"cal":[]},"style":88,"flag":131073,"prop0":12},"perform":{"moduleAttr":{"_inMulMCol":335}}});
+
+Site.initMulColModuleInIE('#module335');jzModule.Module.install({"id":335,"type":1,"style":35,"module":{"id":335,"commProp":{"al":[],"cal":[]},"style":35,"flag":0,"prop0":0},"perform":{"moduleAttr":{}}});
+
+$(function(){Site.hoverChangeImage('#module338');});
+Site.actionForUECallback({ id:'338'});
+jzModule.Module.install({"id":338,"type":1,"style":1,"module":{"id":338,"commProp":{"al":[],"cal":[]},"style":1,"flag":8,"prop0":3},"perform":{"moduleAttr":{}}});
+
+Site.loadNewsList(367, {"y":0,"s":0,"w":1}, true);
+Site.loadNewsNewStyle(367, false,false,false,true,false,false,false,false,true,false,false);
+jzModule.Module.install({"id":367,"type":1,"style":7,"module":{"id":367,"commProp":{"al":[],"cal":[]},"style":7,"flag":1145962566,"prop0":31},"perform":{"moduleAttr":{"data-scrollbar":1,"_autoHeight":0}}});
+
+Site.loadPhotoList(344, 2, true, 1,'listPhotos');
+jzUtils.run({ "name": "ImageEffect.FUNC.BASIC.Init", "callMethod": true }, {"moduleId": 344, "imgEffOption": {"effType":1,"borderType":false,"borderColor":"#000","borderWidth":1,"borderStyle":1,"style":88,"fullMaskCusBg":false,"fullMaskCusDisc":false,"halfMaskCusBg":false,"halfMaskCusDisc":false,"fullMaskOpenDisc":false}, "tagetOption": {"nameHidden":false,"nameWordWrap":false,"targetParent":"photoForm","target":"J_listPhotoImg","picScale":2}, "callback": Site.createImageEffectContent_photo, "callbackArgs": []});jzModule.Module.install({"id":344,"type":1,"style":88,"module":{"id":344,"commProp":{"al":[],"cal":[]},"style":88,"flag":131393,"prop0":12},"perform":{"moduleAttr":{}}});
+
+Site.loadNewsList(347, {"y":0,"s":0,"w":1}, true);
+Site.loadNewsNewStyle(347, false,false,false,true,false,false,false,true,true,false,false);
+jzModule.Module.install({"id":347,"type":1,"style":7,"module":{"id":347,"commProp":{"al":[],"cal":[]},"style":7,"flag":71958599,"prop0":31},"perform":{"moduleAttr":{"bannerTitle":"其他","_side":1}}});
+
+
+	Site.ajaxLogDog();
+	Site.sendBrowerInfo(false);
+	
+	Site.initPage();	
+	setTimeout(afterModuleLoaded, 0);
+	Site.triggerGobalEvent("siteReadyLoad");
+	
+});
+
+function afterModuleLoaded() {
+	
+	Site.initPage2();
+
+} // afterModuleLoaded end
+var _jzProUrl = '', _mallProUrl;
+var _flyerManageDomain = '';
+var _siteAdmDomain = '',
+	_jzHomeUrl = '',
+	_oemDocumentDomain; 
+
+	Fai.top._allSiteMallOemDomain = 'i.mall.vip.webportal.top';
+Fai.top._jzAllSiteDomain = 'i.jz.fkw.com';
+var _allSiteDomain = '', _allMallDomain = '', _homeDomain = '';
+
+	_jzProUrl = 'jz.fkw.com';
+	_mallProUrl = 'mall.fkw.com';
+	_flyerManageDomain = 'i.cd.fkw.com';
+	_siteAdmDomain = 'fkw.com';
+	_jzHomeUrl = 'jz.fkw.com';
+	_mallHomeUrl = 'mall.fkw.com';
+	_allSiteDomain = 'i.jz.fkw.com';
+	_allMallDomain = 'i.mall.fkw.com';
+	_homeDomain = 'fkw.com';
+
+_oemDocumentDomain = 'webportal.top';
+_Global._webRightBar = false;
+var _isMemberLogin = false;		
+var _noCover = 0; 					
+_Global._footerHidden = false;		
+_Global._footerHiddenAllowed = false;	
+_Global._memberTopBar = false;							// 顶部登录条
+var _navPositionFixTop =  false;        		  // 导航栏固定到顶部
+var _elevatorNavStyleChanged = 0;
+if( _Global.isHomePage){
+	var _elevatorNav = {"s":0,"sc":"#fff","eil":[{"img":"","hoverImg":"","fileId":"","hoverFileId":"","link":{},"name":"电梯项1"},{"img":"","hoverImg":"","fileId":"","hoverFileId":"","link":{},"name":"电梯项2"},{"img":"","hoverImg":"","fileId":"","hoverFileId":"","link":{},"name":"电梯项3"}],"sm":0,"eifc":{"y":0,"ic":"#fff","sc":"#fff"},"eif":{"y":0,"s":14,"f":"微软雅黑","c":"#000","ac":"#fff","w":0,"d":0,"i":0},"eis":{"y":0,"w":80,"h":40},"eiis":{"y":0,"w":20,"h":20},"eisp":{"y":0,"s":0,"h":0,"c":"#000"},"eir":{"y":0,"s":0},"eib":{"y":0,"c":"#000","sc":"#000","s":0,"t":true,"b":true,"l":true,"r":true},"eirs":0,"ebg":{"y":0,"f":"","p":"","c":"#000","linear":"","bg":{"backgroundColor":"","backgroundPositionX":"","backgroundPositionY":"","backgroundRepeat":"","backgroundSize":""}},"er":{"y":0,"s":0},"eb":{"y":0,"c":"#000","s":0,"t":true,"b":true,"l":true,"r":true},"ep":{"r":-1,"t":-1}};						
+}
+var nav2SubMenu=[];
+var nav102SubMenu=[];
+
+
+var _useBannerVersionTwo = true; 				
+var _customBackgroundData = {"styleDefault":true,"s":true,"h":false,"r":3,"ps":0,"o":"","sw":-1,"swt":0,"e":0,"wbh":-1,"wbw":-1,"clw":-1,"crw":-1,"wbws":-1,"wbs":0,"id":"","p":"","bBg":{"y":0,"r":3,"ps":0,"f":"","p":"","c":""},"cBg":{"y":0,"r":3,"ps":0,"f":"","p":"","c":""},"cmBg":{"y":0,"r":3,"ps":0,"f":"","p":"","c":""},"bm":{},"cm":{},"cp":{"y":0}};          	
+var _templateBackgroundData = {"id":"","clw":240,"bBg":{"c":"","f":"","r":3,"ps":0,"p":"","y":0},"cBg":{"c":"","f":"","r":3,"ps":0,"p":"","y":0},"cmBg":{"c":"","f":"","r":3,"ps":0,"p":"","y":0},"cp":{"y":0},"s":true,"h":false,"r":3,"ps":0,"o":"","sw":-1,"swt":0,"e":0,"wbh":-1,"wbw":-1,"crw":-1,"wbws":-1,"wbs":0,"p":"","bm":{},"cm":{}};	
+var _resImageRoot = '//2.ss.faisys.com';
+var _useBannerNewType = false; 				
+var _templateBannerData = {"ce":{},"pl":0,"h":true,"s":0,"i":4000,"a":1500,"o":false,"t":1,"p":0,"pt":0,"bt":1,"ws2":false,"l":[],"f":{},"n":[],"c":3,"at":0,"tt":false,"ws":false};			
+var _pageBannerData = {"s":0,"i":4000,"a":1500,"h":false,"o":false,"t":1,"p":0,"pt":0,"pl":0,"bt":1,"ws2":false,"l":[],"f":{},"ce":{},"n":[],"c":3,"at":0,"tt":false,"ws":false};						
+var _bannerData = _templateBannerData;
+var _templateBannerV2Data = {"bl":[{"t":1,"i":"AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM","ot":0,"p":"//15467188.s61i.faiusr.com/2/AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM.jpg","w":960,"h":400,"tp":"//15467188.s61i.faiusr.com/2/AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM!100x100.jpg","du":"//15467188.s61i.faiusr.com/0/AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM.jpg?f=AD0ItIWwBxACGAAgitvY0AUo_Mmx3wMwwAc4kAM.jpg&v=","e":0,"u":""},{"t":1,"i":"AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM","ot":0,"p":"//15467188.s61i.faiusr.com/2/AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM.jpg","w":960,"h":398,"tp":"//15467188.s61i.faiusr.com/2/AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM!100x100.jpg","du":"//15467188.s61i.faiusr.com/0/AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM.jpg?f=AD0ItIWwBxACGAAgws3X2AUo4PXL_wYwwAc4jgM.jpg&v=","e":0,"u":""}],"s":1,"bt":0,"at":1,"i":4000,"a":1500,"blh":{"t":0},"blw":{"t":0},"bzb":{"t":0,"o":100,"c":""},"bla":0,"ble":{"t":0,"at":0},"blpe":0,"mbl":[],"bte":0,"plx":{"o":0,"obg":0,"dir":0,"dist":0.4},"bv":{"fId":"/image/rimage/section/banner/default/flv.mp4","fst":0,"fsh":0.0,"fUrl":"//0.ss.faisys.com/image/rimage/section/banner/default/flv.mp4"},"bbs":{"imgId":"","bis":0,"bo":0,"url":"//2.ss.faisys.com/image/no-pic.jpg"}};		
+var _pageBannerV2Data = {"s":0,"bl":[],"mbl":[],"bt":1,"at":0,"i":4000,"a":1500,"blh":{"t":0},"blw":{"t":0},"bzb":{"t":0},"bla":0,"ble":{"t":0,"at":0},"blpe":0,"plx":{"o":0,"obg":0,"dir":0,"dist":0.4},"bv":{"fId":"/image/rimage/section/banner/default/flv.mp4","fUrl":"//0.ss.faisys.com/image/rimage/section/banner/default/flv.mp4","fst":0,"fsh":0.0},"bbs":{"bis":0,"bo":0,"imgId":"","url":""},"bte":0};					
+var _bannerV2Data = _templateBannerV2Data;
+var _closePhotoDetailEditSettings = true;	
+var _siteSeachRangeLength = 12;  			
+var _useTemplateHeaderZone = true;				
+var _useTemplateFooterZone = true;				
+var _useTemplateBottomFloatLayer = true;	
+var _useTemplateTopAdv = true;						
+var _mallOpen = false;
+var _couponOpen = false
+var toolBoxShowView = false;
+var toolBoxShowSet = false;
+var toolBoxShowABTool = false;
+var _wideBanner = false;		
+var _navStyleData = {"ncp":{"y":1,"l":437,"t":-1,"r":-1,"b":-1,"hl":-1,"ht":-1},"v":0,"no":true,"s":0,"ns":{"w":-1,"h":-1},"cs":{"w":-1,"h":-1},"gt":{"y":0},"ht":{"y":0},"np":{},"nb":{"y":0},"cb":{"y":0},"cp":{"y":0,"t":-1,"l":-1},"nis":{"w":-1,"h":-1},"nib":{"y":0},"nihb":{"y":0},"niss":{"w":-1,"h":-1},"nisb":{"y":0},"nsigt":{"y":0},"nsiht":{"y":0},"nsis":{"w":-1,"h":-1},"nsib":{"y":0},"nsihb":{"y":0},"nsiho":0,"nmove":0,"nsmt":{},"nsmb":{},"nrs":{"n":{"t":0},"c":{"t":0},"i":{"t":0},"smt":{"t":0},"smb":{"t":0},"si":{"t":0},"is":{"t":0},"sis":{"t":0},"tmt":{"t":0},"tmb":{"t":0},"ti":{"t":0},"tis":{"t":0}},"nsw":{"n":{"t":0},"c":{"t":0},"i":{"t":0},"sm":{"t":0},"si":{"t":0},"is":{"t":0},"sis":{"t":0}},"nbr":{"n":{"t":0},"i":{"t":0},"sm":{"t":0},"si":{"t":0},"is":{"t":0},"sis":{"t":0},"tm":{"t":0},"ti":{"t":0},"tis":{"t":0}},"ntf":{},"ntmt":{},"ntmb":{},"onft":false};				      		
+var _useNavVersionTwo = true;					  		
+var _memberTopBar = false;                           		
+var _memberTopBar_versionTwo = false;     		
+_Global._navHidden =false;                                  	
+_Global._topBarV2 = false;                                  	
+_Global._stylePanelV1 = false;                             
+_Global._stylePanelV2 = false;                             
+var _useFooterVersionTwo = true;
+
+Fai.top._isDevDebug = false;  
+Fai.top.checkUPlanAcct = false;
+Fai.top._isShowFkAuthTips = true;
+Fai.top._fkAuth = false;
+Fai.top._fkAuthTitle = "凡科认证";
+Fai.top.staffClose=true;
+Fai.top._footerInfo = "";
+_Global._oemHiddenSupport = false;
+_Global._hideSupportAllowed = false;
+_Global.techSupport = '//i.fkw.com/marketing/techSupport.jsp';
+_Global._hideSideSupportAllowed = false;
+_Global._hiddenSupport = false;
+_Global._hiddenSideSupport = false;
+_Global._oldHiddenSupport = false;
+_Global._oldHiddenSideSupport = false;
+_Global._hiddenLogin = false;
+_Global._openManageSite = true;
+_Global._hiddenMobile = false;
+_Global._hiddenICP = false;
+_Global._hiddenFooterInfo = false;
+_Global._footerInfoV2 = "©2024 - 我的网站 版权所有";
+_Global.isFreeVer = true;
+_Global._hasBeiAn = false; 
+_Global._hiddenMps = false; 
+_defaultFooterInfo = "©2024 - 我的网站 版权所有";
+var _cityJsLink = "//1.ss.faisys.com/js/dist/libs/city2.min.js?v=202402281530";
+var _floatBtnCssLink = "//2.ss.faisys.com/css/dist/styles/floatBtn1.min.css?v=202402221530";
+var _themeColorType = 64;
+var _bgMusic = {"o":true,"l":true,"v":60,"isAuto":0,"i":"","p":"","n":"","ptn":{"t":0,"sn":"","sgn":"","i":{"t":0,"cl":"#324D52"},"f":{"t":0,"cl":"#333333"},"b":{"t":0,"cl":"#AED7E0"}}};
+var _sysIndex = 2;
+var _siteDemo = false;
+
+var _isRealDemo = false;
+_Global._backToTop = true;
+
+
+var _isGrayTestUser = false;
+
+var _newLinkForSite = false;
+var _siteType = 1;
+var _usePrem = true;
+var _acctCreateTime = 1711289728000;
+var _siteId = 0;
+var _isUseNewPanel = !_isMallWeb; // 是否使用新的面板
+var _isMallDesigner = false; 
+var _hideHelp = false;
+var _templateLayout = _templateDefLayout.NAV_FLOAT;
+var _webBannerHeight = -1;
+var _isNewUserForLayoutToNewVersion = true;
+var _undo = {allow: {undo:0, redo:0} };
+var _choiceCurrencyVal = "￥";
+var siteCurrencyRight = false;
+var _moduleAnimationPercent = -1;
+var file_size_limit = parseInt("1");
+
+_Global.styleChangeNum = 0;
+_Global.showSaveGuide = false; 				
+_Global.saveBtnState = 0; 					
+_Global.previewBtnState = 0; 				
+_Global.saveClickConut = 0;					
+var isJuly3FreeUser = false;
+var _newUserGuide = false; 						
+var videoSource = {
+	cssVideoJs:"//2.ss.faisys.com/css/comm/video.js/video-js.min.css?v=202307101206",
+	cssDistVideo:"//2.ss.faisys.com/css/dist/styles/video.min.css?v=202402221530",
+	jsVideo:"//1.ss.faisys.com/js/comm/video.js/video.min.js?v=202307101206"
+} 
+if( false ){						
+	if(_aid > 9855603 && !false){ 	
+		_newUserGuide = true; 					
+	}
+}else{
+	if(_aid > 15971536 && !false){ 	// undefined and false	
+		_newUserGuide = true; 					//传到全局，当前
+	}
+}
+_newUserGuide = _isMallDesigner ? false : _newUserGuide;
+Site.getCouponByHdJump(0);
+Site.receiveCouponFromHd(false, 0, 0.0);
+var _executedCountForUserGuide = 1; 
+var jzOpenTime = 1711289728000;
+
+var loginMemberSucJumpUrlIllegality = false;
+_Global._siteAdvancedSetting = false;
+
+var fk_old_onload = window.onload;
+$(window).load(function(){
+	
+	Site.checkUserDomainAction();
+	
+		Site.cacheModuleFunc.runSiteInit();
+	
+		if(typeof fk_old_onload == "function"){
+			fk_old_onload.apply(this, arguments);
+		}
+		
+		Site.pageOnload();
+		
+    if(false) {
+        $(function() {
+            function cssTest() {
+                var elem = document.createElement('x');  
+                elem.style.cssText = 'pointer-events:auto';  
+                return elem.style.pointerEvents === 'auto';  
+            }
+            if(cssTest()) {
+                $('body').append("<svg id='GWWatermark' class='gw_watermark'><svg>")
+            }
+        })
+	}
+	
+	设置超时（函数（）{
+		
+		if(!Fai.isIE8() && !Fai.isIE7() ){
+			$LAB.script("//1.ss.faisys.com/js/dist/svg.min.js?v=202402281530");
+			
+		}
+		
+	},0);
+	
+
+});
+jzUtils.run({
+    "name": "Pre.errorReport",
+    “基地”：窗户
+});
+
+	Site.beforeUnloadFunc(statId);
+
+	Site.limitDayUv();
+
+	Site.limitUv();
+
+// 在线视频模块
+
+	$LAB.script("//1.ss.faisys.com/js/dist/libs/photoSlide.min.js?v=202403070925");
+	
+	$LAB.script("//1.ss.faisys.com/js/dist/libs/imageEffect.min.js?v=202402281530")
+		.wait(函数(){
+			jzUtils.trigger({
+				"name": "ImageEffect.FUNC.BASIC.Init",
+				“基地”：站点
+			});
+		});
+		
+
+}抓住（e）{
+  e.innerError = true;
+  抛出（e）；
+}
+
+
+	Site.isCssRenderError();
+
+</脚本>
+	
+<脚本类型=“text/javascript”id=“firstPaintDataScript”>
+var FirstPaintData = {
+    成员： {
+        成员TopbarVisible：假，
+        登录脚本：“//1.ss.faisys.com/js/dist/pages/memberLogin/index.min.js?v=202403181119”，
+        登录CSS：“//2.ss.faisys.com/css/dist/styles/login.min.css?v=202402221530”
+    },
+    右栏：{
+        开放：假
+    },
+    消息： {
+        打开手机真实名称： false
+    },
+    产品： {
+        打开手机真实名称： false
+    },
+    消息板：{
+        打开手机真实名称： false
+    },
+    真实姓名验证：{
+        允许提交消息：假，
+        允许显示消息： false
+    },
+    投票：{
+        authInfo: {"auid":170,"aid":32264803,"name":"外链文章","allow":false,"updateVer":40,"updateVerName":"网站推广版","minVer" :40,"updateVerUrl":"//i.fkw.com/jump.jsp?t=40&siteVersion=14&buySiteVer=true&siteSid=0&stdOrPopVer=1#appId=shop"}
+    }
+};
+</> 脚本
+</正文>
+</html>
+
+
